@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+</head>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+    <a class="navbar-brand" href="{{ url_for('index') }}">QrCode Generator</a>
+    <!--
+    <ul class="nav navbar-nav navbar-right">
+      <li><button class="btn btn-success my-2 my-sm-0" type="submit">Login</button></li>
+    </ul>
+    -->
+</nav>
+<br>
+<div class="container">
+    <form action="{{ url_for('index') }}" method="GET">
+        <div class="form-group">
+            <label for="urltextBox">URL:</label>
+            <input class="form-control" name="urltextBox"
+                   {% if url is not none %} value="{{url}}" {% endif %}
+                   id="urltextBox" type="text" required>
+
+            <p style="font-size: 12px;">Thie url must be wikimedia project.</p>
+
+        </div>
+        <button class="btn btn-outline-secondary" id="submitBtn" type="submit">Submit</button>
+    </form>
+    <br>
+    <br>
+
+    <div id="svg">
+        {% if url|length %}
+            <small>QrCode for <b>{{url}}</b> URL.</small><br>
+        {% endif %}
+
+        {{ src }}
+    </div>
+
+</div>
+</body>
+</html>
