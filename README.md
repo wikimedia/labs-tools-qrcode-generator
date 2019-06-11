@@ -19,6 +19,5 @@ Screenshot
 
 Todo
 ----------
-* Add Download Button
 * Integrate with OAuth
 * Add Filter to restrict it for only Wikimedia Sites

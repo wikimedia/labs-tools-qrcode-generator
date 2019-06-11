@@ -15,7 +15,7 @@
     -->
 </nav>
 <br>
-<div class="container">
+<div class="container col-lg-5 p-3 bg-white rounded" style="box-shadow:0 .5rem 1rem rgba(0,0,0,.15)!important">
     <form action="{{ url_for('index') }}" method="GET">
         <div class="form-group">
             <label for="urltextBox">URL:</label>
@@ -23,7 +23,7 @@
                    {% if url is not none %} value="{{url}}" {% endif %}
                    id="urltextBox" type="text" required>
 
-            <p style="font-size: 12px;">Thie url must be wikimedia project.</p>
+            <p style="font-size: 12px;">The url must be wikimedia project.</p>
 
         </div>
         <button class="btn btn-outline-secondary" id="submitBtn" type="submit">Submit</button>
@@ -31,13 +31,18 @@
     <br>
     <br>
 
-    <div id="svg">
-        {% if url|length %}
+    {% if url|length %}
+        <div id="svg">
             <small>QrCode for <b>{{url}}</b> URL.</small><br>
-        {% endif %}
+            <!-- Append the SVG Here -->
+            {{ src }}
+        </div>
 
-        {{ src }}
-    </div>
+        <!-- File Download Button -->
+        <form action="{{ url_for('download', filename=fileName ) }}" method="GET">
+            <button class="btn btn-info my-2 my-sm-0" type="submit">Download</button>
+        </form>
+    {% endif %}
 
 </div>
 </body>
