@@ -9,7 +9,8 @@ import urllib
 
 app = Flask( __name__ )
 
-@app.route('/', methods= [ 'GET' ])
+
+@app.route('/', methods=['GET'])
 def index():
 
     # Get the URL from the query string
@@ -25,7 +26,7 @@ def index():
         # Get the file name based on current time
         currentTime = str(datetime.datetime.now())
         getfileName = currentTime.replace(':', '_').replace(' ', '_') + '.svg'
-        fileWithPath = "static/qrcodes/" + getfileName
+        fileWithPath = 'static/qrcodes/' + getfileName
 
         # Create the QR Code
         img = qrcode.make( url, image_factory=qrcode.image.svg.SvgImage, version=8 )

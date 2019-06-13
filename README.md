@@ -20,4 +20,5 @@ Screenshot
 Todo
 ----------
 * Integrate with OAuth
+* Demonstrate the use of API:Upload with OAuth
 * Add Filter to restrict it for only Wikimedia Sites
