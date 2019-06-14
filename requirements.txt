@@ -1,2 +1,4 @@
 flask==1.0.3
+flask_mwoauth
 qrcode
+pyyaml
