@@ -16,9 +16,3 @@ Screenshot
 <table><tr><td>
 <img src="screenshot.png" width="300" style="border 5px solid black">
 </td></tr></table>
-
-Todo
-----------
-* Integrate with OAuth
-* Demonstrate the use of API:Upload with OAuth
-* Add Filter to restrict it for only Wikimedia Sites

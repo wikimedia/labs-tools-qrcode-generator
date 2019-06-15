@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block main %}
+
+{% if error is not none %}
+<div class="alert alert-danger" role="alert">
+  Something went wrong!
+</div>
+{% else %}
+<div class="alert alert-success" role="alert">
+  QR Code successfully uploaded on the commons
+</div>
+<div>
+    <img class="img-thumbnail rounded" src="{{fileLink}}">
+    <br>
+    <br>
+    <a class="btn btn btn-outline-success" href="{{wikifileURL}}">Link to Commons</a>
+    <a class="btn btn-outline-info" href="{{ url_for('index') }}">Go back</a>
+</div>
+{% endif %}
+
+{% endblock %}
