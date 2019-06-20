@@ -1,13 +1,12 @@
-#urlPara {
-    font-size: 12px;
-    font-weight: bold;
+#download {
+    margin-left: 0.8em;
 }
 
-#uploadToCommons {
+#upload-to-commons {
     display: none
 }
 
-#uploadToCommons-legend {
+#upload-to-commons-legend {
     font-weight: bold;
     font-size: large
 }

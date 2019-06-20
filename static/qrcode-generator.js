@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    $('#uploadBtn').on('click', function () {
-        $('#uploadToCommons').show();
+    $('#upload-btn').on('click', function () {
+        $('#upload-to-commons').show();
     });
 });

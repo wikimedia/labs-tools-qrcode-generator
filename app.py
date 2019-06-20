@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import datetime
+import urllib
+import os
+
 from flask import Flask, render_template, request, Markup, \
     send_from_directory, session
 from flask_mwoauth import MWOAuth
@@ -8,11 +12,8 @@ import requests_oauthlib
 import requests
 import qrcode
 import qrcode.image.svg
-
-import datetime
-import urllib
 import yaml
-import os
+
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
@@ -59,7 +60,8 @@ def index():
         # Read the QR Code File
         svg = open(fileWithPath).read()
 
-        return render_template('index.html', url=url, fileName=getfileName, username=username, src=Markup(svg))
+        return render_template('index.html', url=url, fileName=getfileName,
+                               username=username, src=Markup(svg))
 
 
 @app.route('/download/<string:filename>', methods=['GET'])

@@ -1,12 +1,12 @@
 # QR Code Generator
-This is a qrcode generator for Wikimedia Site. This app also demonstrate the usage of MediaWiki API with [OAuth](https://www.mediawiki.org/wiki/Help:OAuth).
+This is a QRCode generator for Wikimedia Sites. This app uses the MediaWiki OAuth Python library [flask-mwoauth](https://github.com/valhallasw/flask-mwoauth) for authentication and [Action API](https://www.mediawiki.org/wiki/API:Main_page) [Upload](https://www.mediawiki.org/wiki/API:Upload) for uploading the generated QR codes to Wikimedia Commons.
 
 Install
 -------
 
 ```
 $ git clone https://github.com/Jayprakash-SE/qrcode-generator.git
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 $ python3 app.py
 ```
 

@@ -1,68 +1,69 @@
 {% extends 'base.html' %}
 
 {% block main %}
-
 <form action="{{ url_for('index') }}" method="GET">
-    <div class="form-group">
-        <label for="urltextBox">URL:</label>
-        <input class="form-control" name="urltextBox"
-               {% if url is not none %} value="{{url}}" {% endif %}
-               id="urltextBox" type="text" required>
-
-        <p id="urlPara">The URL must be of any Wikimedia project</p>
-    </div>
-    <button class="btn btn-outline-secondary" type="submit">Submit</button>
+  <div class="form-group">
+    <input class="form-control" name="urltextBox"
+      {% if url is not none %} value="{{url}}" {% endif %}
+      placeholder="Enter a URL of an article page from any Wikimedia site."
+      type="url" required>
+  </div>
+  <button class="btn btn-outline-secondary" type="submit">Submit</button>
 </form>
 <br>
 <br>
 
 <!-- Check whether the URL is defined or not -->
 {% if url|length %}
-    <div id="svg">
-        <small>QRCode for <b>{{url}}</b> URL.</small>
-        <br>
-        <!-- Append the SVG Here -->
-        {{ src }}
-    </div>
+  <div id="svg">
+    <p>QRCode for Wiki article: <a href="{{url}}">{{url}}</a>.</p>
+    <!-- Append the SVG Here -->
+    {{ src }}
+  </div>
 
-    <!-- File Download Button -->
-    <form action="{{ url_for('download', filename=fileName ) }}" method="GET">
-        <button class="btn btn-info" type="submit">
-            <i class="fa fa-download fa-lg"> Download </i>
-        </button>
-    </form>
-    <br>
+  <!-- File Download Button -->
+  <form action="{{ url_for('download', filename=fileName ) }}" method="GET">
+    <button class="btn btn-primary" id="download" type="submit">
+      <i class="fa fa-download"></i> Download
+    </button>
 
     {% if username is not none %}
+      <!-- Anchor link to open Upload Form -->
+      <a class="btn btn-primary" href="#upload-to-commons" id="upload-btn">
+        <i class="fa fa-upload"></i> Start upload
+      </a>
+    {% endif %}
+  </form>
+  <br>
 
-    <!-- Anchor link to open Upload Form -->
-    <a class="btn btn-outline-primary" href="#uploadToCommons" id="uploadBtn">Upload to commons</a>
-    <br>
-    <br>
-    <div class="shadow-lg p-3 bg-white rounded" id="uploadToCommons">
+  {% if username is not none %}
+    <div class="shadow-lg p-3 bg-white rounded" id="upload-to-commons">
 
-        <!-- Form for upload action -->
-        <form action="{{ url_for('upload') }}" method="POST">
-            <div class="form-group">
-                <p id="uploadToCommons-legend"> Upload the QR Code to Wikimedia Commons</p>
+      <!-- Form for upload action -->
+      <form action="{{ url_for('upload') }}" method="POST">
+        <div class="form-group">
+          <p id="upload-to-commons-legend">
+            Modify the title and add a description for QR code file:
+          </p>
 
-                <!-- Old File Name -->
-                <input name="oldfileName" type="hidden" value="{{fileName}}">
+          <!-- Old File Name -->
+          <input name="oldfileName" type="hidden" value="{{fileName}}">
 
-                <!-- File Name Field -->
-                <label>Filename:</label>
-                     <input class="form-control" name="newfileName" type="text" required
-                       {% if url is not none %} value="{{fileName}}" {% endif %} >
+            <!-- File Name Field -->
+            <label>Filename:</label>
+            <input class="form-control" name="newfileName" type="text"
+               {% if url is not none %} value="{{fileName}}" {% endif %}
+               required>
 
-                <!-- File Description Field -->
-                <label>Description:</label>
-                <textarea class="form-control" name="description" required rows="3"></textarea>
+            <!-- File Description Field -->
+            <label>Description:</label>
+            <textarea class="form-control" name="description" required rows="3"></textarea>
 
             </div>
 
             <!-- Upload button to submit the Form -->
             <button class="btn btn-primary" type="submit">
-                <i class="fa fa-upload fa-lg"> Upload </i>
+              <i class="fa fa-upload"></i> Finish upload
             </button>
         </form>
     </div>
