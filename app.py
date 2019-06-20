@@ -15,70 +15,69 @@ import qrcode.image.svg
 import yaml
 
 
-app = Flask(__name__)
-app.secret_key = os.urandom(24)
+APP = Flask(__name__)
+APP.secret_key = os.urandom(24)
 
 # Load configuration from YAML file
 __dir__ = os.path.dirname(__file__)
-app.config.update(yaml.safe_load(open(os.path.join(__dir__, 'config.yaml'))))
+APP.config.update(yaml.safe_load(open(os.path.join(__dir__, 'config.yaml'))))
 
 # Get variables
-base_url = app.config['OAUTH_MWURI']
-api_endpoint = base_url + '/api.php'
-consumer_key = app.config['CONSUMER_KEY']
-consumer_secret = app.config['CONSUMER_SECRET']
+BASE_URL = APP.config['OAUTH_MWURI']
+API_ENDPOINT = BASE_URL + '/api.php'
+CONSUMER_KEY = APP.config['CONSUMER_KEY']
+CONSUMER_SECRET = APP.config['CONSUMER_SECRET']
 
 # Register blueprint to app
-mwoauth = MWOAuth(base_url=base_url, consumer_key=consumer_key, consumer_secret=consumer_secret)
-app.register_blueprint(mwoauth.bp)
+MWOAUTH = MWOAuth(base_url=BASE_URL, consumer_key=CONSUMER_KEY, consumer_secret=CONSUMER_SECRET)
+APP.register_blueprint(MWOAUTH.bp)
 
 
 # /index route for return_to
-@app.route('/index', methods=['GET'])
-@app.route('/', methods=['GET'])
+@APP.route('/index', methods=['GET'])
+@APP.route('/', methods=['GET'])
 def index():
     # Get the URL from the query string
     url = request.args.get('urltextBox')
-    username = mwoauth.get_current_user(True)
+    username = MWOAUTH.get_current_user(True)
 
     if url is None:
         return render_template('index.html', username=username)
-    else:
 
-        # Escape the unicode encoding from URL
-        url = urllib.parse.unquote(url)
+    # Escape the unicode encoding from URL
+    url = urllib.parse.unquote(url)
 
-        # Get the file name based on current time
-        currentTime = str(datetime.datetime.now())
-        getfileName = currentTime.replace(':', '_').replace(' ', '_') + '.svg'
-        fileWithPath = 'static/qrcodes/' + getfileName
+    # Get the file name based on current time
+    current_time = str(datetime.datetime.now())
+    get_filename = current_time.replace(':', '_').replace(' ', '_') + '.svg'
+    file_withpath = 'static/qrcodes/' + get_filename
 
-        # Create the QR Code File
-        img = qrcode.make(url, image_factory=qrcode.image.svg.SvgImage, version=8)
-        img.save(fileWithPath)
+    # Create the QR Code File
+    img = qrcode.make(url, image_factory=qrcode.image.svg.SvgImage, version=8)
+    img.save(file_withpath)
 
-        # Read the QR Code File
-        svg = open(fileWithPath).read()
+    # Read the QR Code File
+    svg = open(file_withpath).read()
 
-        return render_template('index.html', url=url, fileName=getfileName,
-                               username=username, src=Markup(svg))
+    return render_template('index.html', url=url, fileName=get_filename,
+                           username=username, src=Markup(svg))
 
 
-@app.route('/download/<string:filename>', methods=['GET'])
+@APP.route('/download/<string:filename>', methods=['GET'])
 def download(filename):
     return send_from_directory(directory='static/qrcodes', filename=filename, as_attachment=True)
 
 
-@app.route('/upload', methods=['POST'])
+@APP.route('/upload', methods=['POST'])
 def upload():
     # Taken Data from the Form
-    oldfileName = request.form.get('oldfileName', None)
+    old_filename = request.form.get('oldfileName', None)
     description = request.form.get('description', None)
-    newfileName = request.form.get('newfileName', None)
+    new_filename = request.form.get('newfileName', None)
 
     # Taken Date and Username for Template
     date = datetime.datetime.now().strftime("%Y-%m-%d")
-    username = mwoauth.get_current_user(True)
+    username = MWOAUTH.get_current_user(True)
 
     # Wikitext for File content
     text = "=={{int:filedesc}}==\n{{Information" + \
@@ -94,45 +93,45 @@ def upload():
     # Variable to set error state
     error = None
 
-    if None not in (oldfileName, newfileName, ses):
+    if None not in (old_filename, new_filename, ses):
         # API Parameter to get CSRF Token
-        csrfParam = {
+        csrf_param = {
             "action": "query",
             "meta": "tokens",
             "format": "json"
         }
 
-        Response = requests.get(url=api_endpoint, params=csrfParam, auth=ses)
-        DATA = Response.json()
-        CSRF_TOKEN = DATA["query"]["tokens"]["csrftoken"]
+        response = requests.get(url=API_ENDPOINT, params=csrf_param, auth=ses)
+        data = response.json()
+        csrf_token = data["query"]["tokens"]["csrftoken"]
 
         # API Parameter to upload the file
-        uploadParam = {
+        upload_param = {
             "action": "upload",
-            "filename": newfileName,
+            "filename": new_filename,
             "text": text,
             "format": "json",
-            "token": CSRF_TOKEN,
+            "token": csrf_token,
             "ignorewarnings": 1
         }
 
         # Read the file for POST request
-        FILE = {
-            'file': open('static/qrcodes/' + oldfileName, 'rb')
+        file = {
+            'file': open('static/qrcodes/' + old_filename, 'rb')
         }
 
-        Response = requests.post(url=api_endpoint, files=FILE, data=uploadParam, auth=ses)
-        DATA = Response.json()
+        response = requests.post(url=API_ENDPOINT, files=file, data=upload_param, auth=ses)
+        data = response.json()
 
         # Try block to get Link and URL
         try:
-            wikifileURL = DATA["upload"]["imageinfo"]["descriptionurl"]
-            fileLink = DATA["upload"]["imageinfo"]["url"]
+            wikifile_url = data["upload"]["imageinfo"]["descriptionurl"]
+            filelink = data["upload"]["imageinfo"]["url"]
         except:
             error = True
             render_template('upload.html', username=username, error=error)
 
-        return render_template('upload.html', wikifileURL=wikifileURL, fileLink=fileLink,
+        return render_template('upload.html', wikifileURL=wikifile_url, fileLink=filelink,
                                username=username, error=error)
 
     # If everything goes wrong append error
@@ -143,14 +142,14 @@ def upload():
 def authenticated_session():
     if 'mwoauth_access_token' in session:
         auth = requests_oauthlib.OAuth1(
-            client_key=consumer_key,
-            client_secret=consumer_secret,
+            client_key=CONSUMER_KEY,
+            client_secret=CONSUMER_SECRET,
             resource_owner_key=session['mwoauth_access_token']['key'],
             resource_owner_secret=session['mwoauth_access_token']['secret']
         )
         return auth
-    else:
-        return None
+
+    return None
 
 if __name__ == '__main__':
-    app.run()
+    APP.run()
