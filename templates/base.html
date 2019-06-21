@@ -29,7 +29,7 @@
       <span class="navbar-text">
         You're logged in as {{username}}!
       </span>
-      <a class="btn btn-outline-secondary" href="{{ url_for('mwoauth.logout') }}">
+      <a class="btn btn-outline-light" href="{{ url_for('mwoauth.logout') }}">
         <i class="fa fa-user"></i> Logout
       </a>
     </li>
@@ -37,7 +37,7 @@
   {% else %}
     <ul class="nav navbar-nav navbar-right">
       <li>
-        <a class="btn btn-outline-secondary" href="{{ url_for('mwoauth.login') }}">
+        <a class="btn btn-outline-light" href="{{ url_for('mwoauth.login') }}">
           <i class="fa fa-sign-in"></i> Login
         </a>
       </li>

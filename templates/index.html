@@ -4,7 +4,7 @@
 <form action="{{ url_for('index') }}" method="GET">
   <div class="form-group">
     <input class="form-control" name="urltextBox"
-      {% if url is not none %} value="{{url}}" {% endif %}
+      {% if url is not none %} value="{{url}}"{% endif %}
       placeholder="Enter a URL of an article page from any Wikimedia site."
       type="url" required>
   </div>
@@ -16,7 +16,7 @@
 <!-- Check whether the URL is defined or not -->
 {% if url|length %}
   <div id="svg">
-    <p>QRCode for Wiki article: <a href="{{url}}">{{url}}</a>.</p>
+    <p id="url-para">QRCode for Wiki article: <a href="{{url}}" target="_blank">{{url}}</a>.</p>
     <!-- Append the SVG Here -->
     {{ src }}
   </div>
@@ -52,7 +52,7 @@
             <!-- File Name Field -->
             <label>Filename:</label>
             <input class="form-control" name="newfileName" type="text"
-               {% if url is not none %} value="{{fileName}}" {% endif %}
+               {% if url is not none %} value="{{fileName}}"{% endif %}
                required>
 
             <!-- File Description Field -->
