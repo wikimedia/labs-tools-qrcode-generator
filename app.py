@@ -6,8 +6,9 @@ import urllib
 import os
 
 from flask import Flask, render_template, request, Markup, \
-    send_from_directory, session
+    send_from_directory, session, url_for, redirect
 from flask_mwoauth import MWOAuth
+from flask_jsonlocale import Locales
 import requests_oauthlib
 import requests
 import qrcode
@@ -15,27 +16,32 @@ import qrcode.image.svg
 import yaml
 
 
-APP = Flask(__name__)
-APP.secret_key = os.urandom(24)
+app = Flask(__name__)
+app.secret_key = os.urandom(24)
 
 # Load configuration from YAML file
 __dir__ = os.path.dirname(__file__)
-APP.config.update(yaml.safe_load(open(os.path.join(__dir__, 'config.yaml'))))
+app.config.update(yaml.safe_load(open(os.path.join(__dir__, 'config.yaml'))))
+
+# i18n of app
+app.config["MESSAGES_DIR"] = "messages"
+locales = Locales(app)
+_ = locales.get_message
 
 # Get variables
-BASE_URL = APP.config['OAUTH_MWURI']
+BASE_URL = app.config['OAUTH_MWURI']
 API_ENDPOINT = BASE_URL + '/api.php'
-CONSUMER_KEY = APP.config['CONSUMER_KEY']
-CONSUMER_SECRET = APP.config['CONSUMER_SECRET']
+CONSUMER_KEY = app.config['CONSUMER_KEY']
+CONSUMER_SECRET = app.config['CONSUMER_SECRET']
 
 # Register blueprint to app
 MWOAUTH = MWOAuth(base_url=BASE_URL, consumer_key=CONSUMER_KEY, consumer_secret=CONSUMER_SECRET)
-APP.register_blueprint(MWOAUTH.bp)
+app.register_blueprint(MWOAUTH.bp)
 
 
 # /index route for return_to
-@APP.route('/index', methods=['GET'])
-@APP.route('/', methods=['GET'])
+@app.route('/index', methods=['GET'])
+@app.route('/', methods=['GET'])
 def index():
     # Get the URL from the query string
     url = request.args.get('urltextBox')
@@ -63,12 +69,25 @@ def index():
                            username=username, src=Markup(svg))
 
 
-@APP.route('/download/<string:filename>', methods=['GET'])
+@app.route('/download/<string:filename>', methods=['GET'])
 def download(filename):
     return send_from_directory(directory='static/qrcodes', filename=filename, as_attachment=True)
 
 
-@APP.route('/upload', methods=['POST'])
+@app.route('/changelang', methods=['GET', 'POST'])
+def changelang():
+    username = MWOAUTH.get_current_user(True)
+
+    if request.method == "POST":
+        locales.set_locale(request.form['locale'])
+        return redirect(url_for('index'))
+
+    lcs = locales.get_locales()
+    per_lce = locales.get_permanent_locale()
+    return render_template('changelanguage.html', username=username, locales=lcs, permanent_locale=per_lce)
+
+
+@app.route('/upload', methods=['POST'])
 def upload():
     # Taken Data from the Form
     old_filename = request.form.get('oldfileName', None)
@@ -152,4 +171,4 @@ def authenticated_session():
     return None
 
 if __name__ == '__main__':
-    APP.run()
+    app.run()

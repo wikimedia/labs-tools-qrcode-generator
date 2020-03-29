@@ -4,3 +4,4 @@ requests_oauthlib
 requests
 qrcode
 pyyaml
+flask-jsonlocale

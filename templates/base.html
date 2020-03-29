@@ -5,7 +5,7 @@
   <meta content="width=device-width, initial-scale=1" name="viewport">
 
   {% block head %}
-  <title>Home</title>
+  <title>{{ _('qrcode-generator-title') }}</title>
 
   <!-- Stylesheets -->
   <link href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
@@ -20,38 +20,38 @@
 </head>
 <body>
 <nav class="navbar navbar-dark bg-dark">
-  <a class="navbar-brand" href="{{ url_for('index') }}">QRCode Generator</a>
+  <a class="navbar-brand" href="{{ url_for('index') }}">{{ _('qrcode-generator-name') }}</a>
 
-  <!-- Check whether the user is login or not -->
-  {% if username is not none %}
   <ul class="nav navbar-nav navbar-right">
-    <li>
-      <span class="navbar-text">
-        You're logged in as {{username}}!
-      </span>
-      <a class="btn btn-outline-light" href="{{ url_for('mwoauth.logout') }}">
-        <i class="fa fa-user"></i> Logout
-      </a>
-    </li>
-  </ul>
-  {% else %}
-    <ul class="nav navbar-nav navbar-right">
+    <!-- Check whether the user is login or not -->
+    {% if username is not none %}
       <li>
-        <a class="btn btn-outline-light" href="{{ url_for('mwoauth.login') }}">
-          <i class="fa fa-sign-in"></i> Login
+        <span class="navbar-text">
+          {{ _('login-as') }}&nbsp;{{username}}!
+        </span>
+        <a style="margin-left:5px;" class="btn btn-outline-light" href="{{ url_for('changelang') }}"> {{ _('changelanguage') }} </a>
+        <a class="btn btn-outline-light" href="{{ url_for('mwoauth.logout') }}">
+          <i class="fa fa-user"></i> {{ _('logout') }}
         </a>
       </li>
-    </ul>
-  {% endif %}
+    {% else %}
+      <li>
+        <a style="margin-left:5px;" class="btn btn-outline-light" href="{{ url_for('changelang') }}"> {{ _('changelanguage') }} </a>
+        <a class="btn btn-outline-light" href="{{ url_for('mwoauth.login') }}">
+          <i class="fa fa-sign-in"></i> {{ _('login') }}
+        </a>
+      </li>
+    {% endif %}
+  </ul>
 </nav>
 <br>
 <div class="container col-lg-6 p-3 bg-white shadow rounded">
 {% if username is none %}
 <div class="alert alert-info" role="alert">
   <a href="{{ url_for('mwoauth.login') }}">
-    Log in
+    {{ _('login') }}
   </a>
-  to the app with your MediaWiki account to upload the generated QR Code to Wikimedia Commons!
+  {{ _('pleaselogin') }}
 </div>
 {% endif %}
 {% block main %}

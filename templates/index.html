@@ -5,10 +5,10 @@
   <div class="form-group">
     <input class="form-control" name="urltextBox"
       {% if url is not none %} value="{{url}}"{% endif %}
-      placeholder="Enter a URL of an article page from any Wikimedia site."
+      placeholder="{{ _('enter-url') }}"
       type="url" required>
   </div>
-  <button class="btn btn-outline-secondary" type="submit">Submit</button>
+  <button class="btn btn-outline-secondary" type="submit">{{ _('submit') }}</button>
 </form>
 <br>
 <br>
@@ -16,7 +16,7 @@
 <!-- Check whether the URL is defined or not -->
 {% if url|length %}
   <div id="svg">
-    <p id="url-para">QRCode for Wiki article: <a href="{{url}}" target="_blank">{{url}}</a>.</p>
+    <p id="url-para">{{ _('pagename') }} <a href="{{url}}" target="_blank">{{url}}</a>.</p>
     <!-- Append the SVG Here -->
     {{ src }}
   </div>
@@ -24,13 +24,13 @@
   <!-- File Download Button -->
   <form action="{{ url_for('download', filename=fileName ) }}" method="GET">
     <button class="btn btn-primary" id="download" type="submit">
-      <i class="fa fa-download"></i> Download
+      <i class="fa fa-download"></i> {{ _('download') }}
     </button>
 
     {% if username is not none %}
       <!-- Anchor link to open Upload Form -->
       <a class="btn btn-primary" href="#upload-to-commons" id="upload-btn">
-        <i class="fa fa-upload"></i> Start upload
+        <i class="fa fa-upload"></i> {{ _('start-upload') }}
       </a>
     {% endif %}
   </form>
@@ -43,27 +43,27 @@
       <form action="{{ url_for('upload') }}" method="POST">
         <div class="form-group">
           <p id="upload-to-commons-legend">
-            Modify the title and add a description for QR code file:
+            {{ _('modify-details') }}
           </p>
 
           <!-- Old File Name -->
           <input name="oldfileName" type="hidden" value="{{fileName}}">
 
             <!-- File Name Field -->
-            <label>Filename:</label>
+            <label>{{ _('filename') }}</label>
             <input class="form-control" name="newfileName" type="text"
                {% if url is not none %} value="{{fileName}}"{% endif %}
                required>
 
             <!-- File Description Field -->
-            <label>Description:</label>
+            <label>{{ _('description') }}</label>
             <textarea class="form-control" name="description" required rows="3"></textarea>
 
             </div>
 
             <!-- Upload button to submit the Form -->
             <button class="btn btn-primary" type="submit">
-              <i class="fa fa-upload"></i> Finish upload
+              <i class="fa fa-upload"></i> {{ _('upload') }}
             </button>
         </form>
     </div>

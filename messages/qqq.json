@@ -1,0 +1,31 @@
+{
+    "@metadata": {
+        "authors": [
+            "Jayprakash12345"
+        ]
+    },
+    "qrcode-generator-title": "Site name",
+    "bookreader-desc": "Description of the WebApp",
+    "qrcode-generator-name": "App name",
+    "changelanguage": "Label to change Language",
+    "my-language": "Label for my Language",
+    "button-save": "Label for Save button",
+    "button-cancel": "Label for Cancel button",
+    "login": "Label for Login",
+    "logout": "Label for Logout",
+    "pleaselogin": "Login Message",
+    "login-as": "Login status",
+    "enter-url": "Label for URL",
+    "submit": "Label for Submit button",
+    "pagename": "Page name for QRCode",
+    "download": "Label for Download button",
+    "start-upload": "Label for Start upload button",
+    "modify-details": "Modify the details before uploading the file",
+    "filename": "Filename label",
+    "description": "Description label",
+    "upload": "Label for Finish upload button",
+    "error": "Upload error message",
+    "view-on-site": "Link to visit the file on commons.",
+    "success": "Uplaod sucess message",
+    "goto-home": "Link to go home"
+}

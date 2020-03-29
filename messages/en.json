@@ -1,0 +1,31 @@
+{
+    "@metadata": {
+        "authors": [
+            "Jayprakash12345"
+        ]
+    },
+    "qrcode-generator-title": "Home - QRCode",
+    "qrcode-generator-desc": "QRCode Generator is a web app to generator the QR code. Also, provides support to upload it to Wikimedia Commons.",
+    "qrcode-generator-name": "QRCode Generator",
+    "changelanguage": "Change Language",
+    "my-language": "My Language",
+    "button-save": "Save",
+    "button-cancel": "Cancel",
+    "login": "Login",
+    "logout": "Logout",
+    "pleaselogin": "to the app with your MediaWiki account to upload the generated QR Code to Wikimedia Commons!",
+    "login-as": "You're logged in as",
+    "enter-url": "Enter a URL of an article page from any Wikimedia site.",
+    "submit": "Submit",
+    "pagename": "QRCode for Wiki article:",
+    "download": "Download",
+    "start-upload": "Start upload",
+    "modify-details": "Modify the title and add a description for QR code file:",
+    "filename": "Filename:",
+    "description": "Description:",
+    "upload": "Finish upload",
+    "error": "Something went wrong while uploading your QR code :-/",
+    "view-on-site": "Click here to view it.",
+    "success": "Your QR code is successfully uploaded to Wikimedia Commons!",
+    "goto-home": "Go back to home page"
+}
