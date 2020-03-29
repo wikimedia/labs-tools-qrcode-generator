@@ -146,7 +146,7 @@ def upload():
         try:
             wikifile_url = data["upload"]["imageinfo"]["descriptionurl"]
             filelink = data["upload"]["imageinfo"]["url"]
-        except:
+        except Exception:
             error = True
             render_template('upload.html', username=username, error=error)
 
@@ -169,6 +169,7 @@ def authenticated_session():
         return auth
 
     return None
+
 
 if __name__ == '__main__':
     app.run()
