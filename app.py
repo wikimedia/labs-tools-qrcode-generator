@@ -115,7 +115,7 @@ def upload():
         "\n|source={{own}}" + \
         "\n|author=[[User:" + username + "|" + username + "]]" + \
         "\n}}\n\n=={{int:license-header}}==" + \
-        "\n[[Category:" + lang_name + domain + "QR Codes]]" + \
+        "\n[[Category:" + lang_name + domain + " QR Codes]]" + \
         "\n{{self|cc-by-sa-4.0}}"
 
     # Authenticate Session
