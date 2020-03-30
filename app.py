@@ -14,7 +14,8 @@ import requests
 import qrcode
 import qrcode.image.svg
 import yaml
-
+import pycountry
+import tldextract
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
@@ -93,6 +94,15 @@ def upload():
     old_filename = request.form.get('oldfileName', None)
     description = request.form.get('description', None)
     new_filename = request.form.get('newfileName', None)
+    base_url = request.form.get('baseurl', None)
+
+    url_data = tldextract.extract(base_url)
+    domain = url_data.domain
+    if url_data.subdomain != "www":
+        lang_name = pycountry.languages.get(alpha_2=url_data.subdomain).name + ' '
+    else:
+        lang_name = ''
+        domain = domain.title()
 
     # Taken Date and Username for Template
     date = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -100,11 +110,13 @@ def upload():
 
     # Wikitext for File content
     text = "=={{int:filedesc}}==\n{{Information" + \
-           "\n|description=" + description + \
-           "\n|date=" + date + \
-           "\n|source={{own}}" + \
-           "\n|author=[[User:" + username + "|" + username + "]]" + \
-           "\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}"
+        "\n|description=" + description + \
+        "\n|date=" + date + \
+        "\n|source={{own}}" + \
+        "\n|author=[[User:" + username + "|" + username + "]]" + \
+        "\n}}\n\n=={{int:license-header}}==" + \
+        "\n[[Category:" + lang_name + domain + "QR Codes]]" + \
+        "\n{{self|cc-by-sa-4.0}}"
 
     # Authenticate Session
     ses = authenticated_session()

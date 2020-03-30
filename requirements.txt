@@ -5,3 +5,5 @@ requests
 qrcode
 pyyaml
 flask-jsonlocale
+pycountry
+tldextract
