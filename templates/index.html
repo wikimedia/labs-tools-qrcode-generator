@@ -50,10 +50,11 @@
           <input name="oldfileName" type="hidden" value="{{fileName}}">
           <input name="baseurl" type="hidden" value="{{url}}">
 
+            {% set urlArray = url.split('/') %}
             <!-- File Name Field -->
             <label>{{ _('filename') }}</label>
             <input class="form-control" name="newfileName" type="text"
-               {% if url is not none %} value="{{fileName}}"{% endif %}
+               {% if url is not none %} value="QR Code - {{urlArray[2]}} - {{urlArray|last}}.svg"{% endif %}
                required>
 
             <!-- File Description Field -->
