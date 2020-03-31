@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"qrcode-generator-title": "首頁 - QR 碼",
+	"qrcode-generator-desc": "QR 碼產生器是個能產生 QR 碼的網路應用程式，支援將其上傳到維基共享資源。",
+	"qrcode-generator-name": "QR 碼產生器",
+	"changelanguage": "更改語言",
+	"my-language": "我的語言",
+	"button-save": "儲存",
+	"button-cancel": "取消",
+	"login": "登入",
+	"logout": "登出",
+	"pleaselogin": "以您的 MediaWiki 帳號到應用程式，來上傳 QR 碼到維基共享資源！",
+	"login-as": "您已登入為",
+	"enter-url": "輸入任何來自維基多媒體網站的條目網址。",
+	"submit": "提交",
+	"pagename": "用於 Wiki 條目的 QR 碼：",
+	"download": "下載",
+	"start-upload": "開始上傳",
+	"modify-details": "變動標題並添加 QR 碼檔案用的描述：",
+	"filename": "檔案名稱：",
+	"description": "描述：",
+	"upload": "結束上傳",
+	"error": "在上傳您的 QR 碼時發生了一些問題：-/",
+	"view-on-site": "在此點擊來查看。",
+	"success": "您的 QR 碼已成功上傳到維基共享資源！",
+	"goto-home": "返回到首頁"
+}

@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup"
+		]
+	},
+	"qrcode-generator-title": "Degemer - QRKod",
+	"qrcode-generator-desc": "Un arload web evit genel kodoù QR eo QRCode Generator. Pourchas a ra skoazell evit e enporzhiañ war Wikipedia Commons ivez.",
+	"qrcode-generator-name": "Ganer QRKod",
+	"changelanguage": "Cheñch yezh",
+	"my-language": "Ma yezh",
+	"button-save": "Enrollañ",
+	"button-cancel": "Nullañ",
+	"login": "Kevreañ",
+	"logout": "Digevreañ",
+	"login-as": "Kevreet oc'h evel",
+	"enter-url": "Merkañ URL ur bajenn bennad tennet eus ul lec'hienn Wikimedia.",
+	"submit": "Kas",
+	"pagename": "QRKod evit pennad ar wiki :",
+	"download": "Pellgargañ",
+	"start-upload": "Kregiñ da enporzhiañ",
+	"modify-details": "Cheñch an titl hag ouzhpennañ un deskrivadur evit QR code ar restr :",
+	"filename": "Anv ar restr :",
+	"description": "Deskrivadur :",
+	"upload": "Echuiñ da enporzhiañ",
+	"error": "Un dra bennak a-dreuz zo bet e-ser enporzhiañ ho QR Kod :-/",
+	"view-on-site": "Klikañ amañ evit e welet.",
+	"success": "Enporzhiet ervat eo bet ho QRKod war Wikimedia Commons !",
+	"goto-home": "Distreiñ d'ar bajenn degemer"
+}

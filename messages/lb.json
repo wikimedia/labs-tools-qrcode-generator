@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"qrcode-generator-title": "Haaptsäit - QRCode",
+	"changelanguage": "Sprooch wiesselen",
+	"my-language": "Meng Sprooch",
+	"button-save": "Späicheren",
+	"button-cancel": "Ofbriechen",
+	"login": "Aloggen",
+	"logout": "Ausloggen",
+	"login-as": "Dir sidd ageloggt als",
+	"submit": "Schécken",
+	"pagename": "QRCode fir de Wiki-Artikel:",
+	"download": "Eroflueden",
+	"filename": "Numm vum Fichier:",
+	"description": "Beschreiwung:",
+	"goto-home": "Gitt zréck op d'Haaptsäit"
+}

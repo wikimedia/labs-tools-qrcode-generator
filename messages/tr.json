@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK",
+			"Sucsuzz"
+		]
+	},
+	"qrcode-generator-title": "Anasayfa - QRCode",
+	"qrcode-generator-desc": "QRCode Oluşturucu QR kodunu oluşturmak için bir web uygulaması. Ayrıca, Wikimedia Commons'a yüklemek için destek sağlar.",
+	"qrcode-generator-name": "QRCode Oluşturucu",
+	"changelanguage": "Dili Değiştir",
+	"my-language": "Dilim",
+	"button-save": "Kaydet",
+	"button-cancel": "İptal",
+	"login": "Oturum aç",
+	"logout": "Oturumu kapat",
+	"pleaselogin": "oluşturulan QR Kodunu Wikimedia Commons'a yüklemek için MediaWiki hesabınızla uygulamaya gidin!",
+	"login-as": "Şu hesapla oturum açtınız:",
+	"enter-url": "Herhangi bir Wikimedia sitesinden madde sayfasının URL'sini girin.",
+	"submit": "Gönder",
+	"pagename": "QRCode viki maddesi:",
+	"download": "İndir",
+	"start-upload": "Yüklemeyi başlat",
+	"modify-details": "Başlığı değiştirin ve QR kod dosyası için bir açıklama ekleyin:",
+	"filename": "Dosya adı:",
+	"description": "Açıklama:",
+	"upload": "Yüklemeyi bitir",
+	"error": "QR kodunuzu yüklerken bir şeyler ters gitti :-/",
+	"view-on-site": "Görüntülemek için buraya tıklayın.",
+	"success": "QR kodunuz Wikimedia Commons'a başarıyla yüklendi!",
+	"goto-home": "Ana sayfaya geri dön"
+}

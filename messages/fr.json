@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"qrcode-generator-title": "Accueil — QRCode",
+	"qrcode-generator-desc": "Générateur QRCode est une application web pour générer un code QR. Fournit aussi un support pour le télécharger sur Wikimédia Communs.",
+	"qrcode-generator-name": "Générateur QRCode",
+	"changelanguage": "Changer de langue",
+	"my-language": "Ma langue",
+	"button-save": "Enregistrer",
+	"button-cancel": "Annuler",
+	"login": "Connexion",
+	"logout": "Déconnexion",
+	"pleaselogin": "à votre application avec votre compte MédiaWiki pour télécharger le code QR généré à Wikimédia Communs !",
+	"login-as": "Vous êtes connecté comme",
+	"enter-url": "Saisir un URL d’une page d’article d’un autre site Wikimédia.",
+	"submit": "Soumettre",
+	"pagename": "QRCodde pour l’article du wiki :",
+	"download": "Télécharger",
+	"start-upload": "Commencer le téléchargement",
+	"modify-details": "Modifier le titre et ajouter une description pour le fichier de code QR :",
+	"filename": "Nom de fichier :",
+	"description": "Description :",
+	"upload": "Terminer le téléchargement",
+	"error": "Quelque chose s’est mal passé en téléchargement votre code QR :-/",
+	"view-on-site": "Cliquer ici pour le voir.",
+	"success": "Votre code QR est bien télécharger sur Wikimédia Communs !",
+	"goto-home": "Retourner à la page d’accueil"
+}

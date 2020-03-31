@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"my-language": "Mea idiomo",
+	"button-save": "Konservez",
+	"login": "Enirar",
+	"submit": "Sendez",
+	"filename": "Nomo dil arkivo:",
+	"description": "Deskripto:",
+	"success": "Vua QR-kodexo sucese sendesis a Wikimedia Commons!"
+}

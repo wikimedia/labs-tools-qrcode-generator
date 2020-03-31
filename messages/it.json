@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"qrcode-generator-name": "Generatore QRCode",
+	"changelanguage": "Cambia lingua",
+	"button-save": "Salva",
+	"button-cancel": "Annulla",
+	"login": "Entra",
+	"logout": "Esci",
+	"login-as": "Hai effettuato l'accesso come",
+	"submit": "Invia",
+	"pagename": "QRCode per voce Wiki:",
+	"download": "Scarica",
+	"start-upload": "Inizia il caricamento",
+	"filename": "Nome file:",
+	"description": "Descrizione:",
+	"upload": "Completa caricamento",
+	"goto-home": "Ritorna alla pagina principale"
+}

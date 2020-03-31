@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Orbot707"
+		]
+	},
+	"qrcode-generator-title": "Pelaseri - QRCode",
+	"qrcode-generator-desc": "Vıraştoğê QRCode seba vıraştışê kodê QR yew aplikasyonê webiyo. Reyna , barkerdışê Wikimedia Commonsi rê zi desteg dano",
+	"qrcode-generator-name": "Vıraştoğê QRCode",
+	"changelanguage": "Zıwani Bıvurnê",
+	"my-language": "Zıwanê Mı",
+	"button-save": "Qeyd kerê",
+	"button-cancel": "Bıteğelne",
+	"login": "Cıkewtış",
+	"logout": "Veciyayış",
+	"pleaselogin": "Vıraziyaye kodê QR seba barê Commonsi pê hesabê  MediaWiki ravêrê aplikasyoni!",
+	"login-as": "$1 nameya şıma ronıştış akerdo",
+	"enter-url": "Herhangi yew sitay Wikimedia ra gırey pela meqaley cıkuye",
+	"submit": "Bırışê",
+	"pagename": "Seba QRCode meqaley Wiki :",
+	"download": "Ron",
+	"start-upload": "Barkerdışi ser kewê",
+	"modify-details": "Sereki bıvurnê u dosyay kodê QR yew izahat cıkere",
+	"filename": "Nameydosya:",
+	"description": "İzahat:",
+	"upload": "Barkerdış qediya",
+	"error": "Kodê QR barkerdış de tay çi çewt şı :-/",
+	"view-on-site": "Mocnayışi rê tiyay bıploğnê",
+	"success": "Kodê QR barê Wikimedia Commonsi biyo!",
+	"goto-home": "Peyser şo pelaseri"
+}
