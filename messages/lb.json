@@ -5,6 +5,7 @@
 		]
 	},
 	"qrcode-generator-title": "Haaptsäit - QRCode",
+	"qrcode-generator-name": "QRCode Generateur",
 	"changelanguage": "Sprooch wiesselen",
 	"my-language": "Meng Sprooch",
 	"button-save": "Späicheren",
@@ -15,7 +16,12 @@
 	"submit": "Schécken",
 	"pagename": "QRCode fir de Wiki-Artikel:",
 	"download": "Eroflueden",
+	"start-upload": "Mam eroplueden ufänken",
 	"filename": "Numm vum Fichier:",
 	"description": "Beschreiwung:",
+	"upload": "Eroplueden ofschléissen",
+	"error": "Beim Eropluede vum QR Code ass eppes schif gaangen :-/",
+	"view-on-site": "Klickt hei fir et ze gesinn.",
+	"success": "Äre QR Code gouf op Wikimedia Commons eropgelueden!",
 	"goto-home": "Gitt zréck op d'Haaptsäit"
 }

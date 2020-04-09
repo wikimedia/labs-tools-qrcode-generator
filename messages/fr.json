@@ -1,23 +1,26 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Noelie-b",
+			"Thibaut120094",
+			"Wladek92"
 		]
 	},
 	"qrcode-generator-title": "Accueil — QRCode",
-	"qrcode-generator-desc": "Générateur QRCode est une application web pour générer un code QR. Fournit aussi un support pour le télécharger sur Wikimédia Communs.",
+	"qrcode-generator-desc": "Générateur de QRCode est une application web pour générer un code QR. Fournit aussi un support pour le télécharger sur Wikimedia Commons.",
 	"qrcode-generator-name": "Générateur QRCode",
 	"changelanguage": "Changer de langue",
 	"my-language": "Ma langue",
-	"button-save": "Enregistrer",
+	"button-save": "Sauvegarder",
 	"button-cancel": "Annuler",
 	"login": "Connexion",
 	"logout": "Déconnexion",
-	"pleaselogin": "à votre application avec votre compte MédiaWiki pour télécharger le code QR généré à Wikimédia Communs !",
-	"login-as": "Vous êtes connecté comme",
-	"enter-url": "Saisir un URL d’une page d’article d’un autre site Wikimédia.",
+	"pleaselogin": "à votre application avec votre compte MediaWiki pour télécharger le code QR généré à Wikimedia Commons !",
+	"login-as": "Vous êtes connecté en tant que $1",
+	"enter-url": "Saisir une URL de page d’article d’un autre site Wikimédia.",
 	"submit": "Soumettre",
-	"pagename": "QRCodde pour l’article du wiki :",
+	"pagename": "QRCode pour l’article Wiki :",
 	"download": "Télécharger",
 	"start-upload": "Commencer le téléchargement",
 	"modify-details": "Modifier le titre et ajouter une description pour le fichier de code QR :",
@@ -26,6 +29,6 @@
 	"upload": "Terminer le téléchargement",
 	"error": "Quelque chose s’est mal passé en téléchargement votre code QR :-/",
 	"view-on-site": "Cliquer ici pour le voir.",
-	"success": "Votre code QR est bien télécharger sur Wikimédia Communs !",
-	"goto-home": "Retourner à la page d’accueil"
+	"success": "Votre QR code a bien été téléchargé sur Wikimedia Commons !",
+	"goto-home": "Retour à la page d’accueil"
 }

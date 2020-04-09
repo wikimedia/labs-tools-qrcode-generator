@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"qrcode-generator-title": "Hem - QRCode",
+	"qrcode-generator-desc": "QRCode Generator är en webbapp för att skapa QR-koder. Den har även stöd för att ladda upp dem till Wikimedia Commons.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Byt språk",
+	"my-language": "Mitt språk",
+	"button-save": "Spara",
+	"button-cancel": "Avbryt",
+	"login": "Logga in",
+	"logout": "Logga ut",
+	"pleaselogin": "på appen med ditt MediaWiki-konto för att ladda upp den skapade QR-koden till Wikimedia Commons!",
+	"login-as": "Du är inloggad som",
+	"enter-url": "Ange en webbadress till en artikelsida från en valfri Wikimedia-webbplats.",
+	"submit": "Skicka",
+	"pagename": "QR-kod för wikiartikel:",
+	"download": "Ladda ned",
+	"start-upload": "Starta uppladdning",
+	"modify-details": "Ändra titeln och lägg till en beskrivning för QR-kodsfilen:",
+	"filename": "Filnamn:",
+	"description": "Beskrivning:",
+	"upload": "Uppladdning slutförd",
+	"error": "Någonting gick fel när din QR-kod laddades upp :-/",
+	"view-on-site": "Klicka här för att visa den.",
+	"success": "Din QR-kod har laddats upp till Wikimedia Commons!",
+	"goto-home": "Gå tillbaka till hemsidan"
+}

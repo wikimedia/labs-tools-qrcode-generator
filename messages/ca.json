@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"qrcode-generator-title": "Inici • Codi QR",
+	"qrcode-generator-name": "Generador de codis QR",
+	"changelanguage": "Canvia la llengua",
+	"my-language": "La meva llengua",
+	"button-save": "Desa",
+	"button-cancel": "Cancel·la",
+	"login": "Inicia una sessió",
+	"logout": "Finalitza la sessió",
+	"login-as": "Heu iniciat la sessió com a",
+	"submit": "Tramet",
+	"download": "Baixa",
+	"start-upload": "Inicia la pujada",
+	"modify-details": "Modifiqueu el títol i afegiu una descripció per al fitxer del codi QR:",
+	"filename": "Nom del fitxer:",
+	"description": "Desscripció:",
+	"upload": "Finalitza la pujada",
+	"error": "S’ha produït un error en pujar el codi QR :-/",
+	"view-on-site": "Feu clic ací per a veure’l.",
+	"success": "S’ha pujat el codi QR al Wikimedia Commons correctament.",
+	"goto-home": "Torna a la pàgina principal"
+}

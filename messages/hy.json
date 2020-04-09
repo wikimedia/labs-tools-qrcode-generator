@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kareyac"
+		]
+	},
+	"changelanguage": "Փոխել լեզուն",
+	"my-language": "Իմ լեզուն",
+	"button-save": "Հիշել",
+	"button-cancel": "Չեղարկել",
+	"logout": "Դուրս գալ",
+	"login-as": "Դուք մտել եք որպես $1:",
+	"submit": "Հաստատել",
+	"download": "Ներբեռնել",
+	"filename": "Նիշքի անվանում",
+	"description": "Նկարագրություն՝"
+}

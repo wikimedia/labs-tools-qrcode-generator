@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"qrcode-generator-title": "Casa - QRCode",
+	"qrcode-generator-desc": "O Gerador de QRCode é um aplicativo da web para gerar o código QR. Além disso, fornece suporte para carregá-lo no Wikimedia Commons.",
+	"qrcode-generator-name": "Gerador de QRCode",
+	"changelanguage": "Mudar idioma",
+	"my-language": "Meu idioma",
+	"button-save": "Salvar",
+	"button-cancel": "Cancelar",
+	"login": "Entrar",
+	"logout": "Sair",
+	"pleaselogin": "para o aplicativo com sua conta do MediaWiki para carregar o QR Code gerado no Wikimedia Commons!",
+	"login-as": "Você entrou como",
+	"enter-url": "Digite um URL de uma página de artigo de qualquer site da Wikimedia.",
+	"submit": "Enviar",
+	"pagename": "QRCode para artigo da Wiki:",
+	"download": "Baixar",
+	"start-upload": "Iniciar o carregamento",
+	"modify-details": "Modificar o título e adicione uma descrição para o arquivo de código QR:",
+	"filename": "Nome do arquivo:",
+	"description": "Descrição:",
+	"upload": "Concluir o carregamento",
+	"error": "Ocorreu um erro ao carregar seu código QR :-/",
+	"view-on-site": "Clique aqui para visualizar.",
+	"success": "O seu código QR foi carregado com sucesso no Wikimedia Commons!",
+	"goto-home": "Voltar à página inicial"
+}

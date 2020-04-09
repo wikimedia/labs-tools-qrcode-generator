@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"FF11"
+		]
+	},
+	"qrcode-generator-title": "Startseite - QR-Code",
+	"qrcode-generator-name": "QR-Code-Generator",
+	"changelanguage": "Sprache ändern",
+	"my-language": "meine Sprache",
+	"button-save": "Speichern",
+	"button-cancel": "Abbrechen",
+	"login": "Anmelden",
+	"logout": "Abmelden",
+	"login-as": "Du bist angemeldet als",
+	"enter-url": "Gib eine URL eines Artikels von einer Wikimedia-Seite ein.",
+	"submit": "Absenden",
+	"pagename": "QR-Code für den Wiki-Artikel:",
+	"download": "Herunterladen",
+	"start-upload": "Hochladen beginnen",
+	"modify-details": "Ändere den Titel und füge eine Beschreibung für die QR-Code-Datei hinzu:",
+	"filename": "Dateiname:",
+	"description": "Beschreibung:",
+	"upload": "Hochladen abschließen",
+	"error": "Beim Hochladen deines QR-Codes ist etwas schiefgelaufen :-/",
+	"view-on-site": "Klicke hier um die Datei anzuzeigen.",
+	"success": "Dein QR-Code wurde erfolgreich auf Wikimedia Commons hochgeladen!",
+	"goto-home": "Zurück zur Startseite"
+}
