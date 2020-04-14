@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saraiki"
+		]
+	},
+	"button-save": "بچاؤ",
+	"button-cancel": "منسوخ",
+	"login": "لاگ ان",
+	"logout": "لاگ آؤٹ",
+	"submit": "جمع کرواؤ",
+	"download": "ڈاؤن لوڈ",
+	"filename": "فائل دا ناں:",
+	"description": "تفصیل:"
+}

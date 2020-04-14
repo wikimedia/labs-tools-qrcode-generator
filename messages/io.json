@@ -4,12 +4,21 @@
 			"Joao Xavier"
 		]
 	},
+	"qrcode-generator-title": "Komenco - QRCode",
 	"changelanguage": "Chanjez idiomo",
 	"my-language": "Mea idiomo",
 	"button-save": "Konservez",
+	"button-cancel": "Anular",
 	"login": "Enirar",
+	"login-as": "Vu enrejistresis kom",
+	"enter-url": "Informez la URL pri pagino de ula retsituo Wikimedia.",
 	"submit": "Sendez",
+	"download": "Deskargar",
+	"start-upload": "Adkargar arkivo",
+	"modify-details": "Modifikez la titulo, ed adjuntez deskripto pri l'arkivo QRcode:",
 	"filename": "Nomo dil arkivo:",
 	"description": "Deskripto:",
+	"upload": "Sendo di arkivo parfinata",
+	"view-on-site": "Kliktez hike por vidar ol.",
 	"success": "Vua QR-kodexo sucese sendesis a Wikimedia Commons!"
 }
