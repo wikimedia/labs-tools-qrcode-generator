@@ -17,10 +17,12 @@
 	"submit": "Enviar",
 	"pagename": "Código QR del artículo del wiki:",
 	"download": "Descargar",
+	"start-upload": "Comenzar carga",
 	"modify-details": "Modificar el título y agregar una descripción para el archivo de código QR:",
 	"filename": "Nombre de archivo:",
 	"description": "Descripción:",
 	"upload": "Finalizar carga",
 	"view-on-site": "Pulsa aquí para verlo.",
+	"success": "El código QR se cargó correctamente en Wikimedia Commons.",
 	"goto-home": "Volver a la página principal"
 }

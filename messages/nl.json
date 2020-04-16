@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"PonkoSasuke"
+		]
+	},
+	"qrcode-generator-title": "Home - QR-code",
+	"qrcode-generator-desc": "QRCode Generator is een web app om QR-codes aan te maken. Geeft ook support bij het uploaden naar Wikimedia Commons.",
+	"qrcode-generator-name": "QR-code generator",
+	"changelanguage": "Taal wijzigen",
+	"my-language": "Mijn taal",
+	"button-save": "Opslaan",
+	"button-cancel": "Annuleren",
+	"login": "Aanmelden",
+	"logout": "Afmelden",
+	"pleaselogin": "naar de app met jouw MediaWiki account om de gegenereerde QR-code naar Wikimedia Commons te uploaden!",
+	"login-as": "Je bent aangemeld als",
+	"enter-url": "Geef een URL of een artikelpagina van een Wikimedia site in.",
+	"submit": "Opslaan",
+	"pagename": "QR-code voor Wiki arikel:",
+	"download": "Downloaden",
+	"start-upload": "Beginnen met uploaden",
+	"modify-details": "Pas de titel aan en voeg een beschrijving toe voor het QR-code bestand:",
+	"filename": "Bestandsnaam:",
+	"description": "Beschrijving:",
+	"upload": "Uploaden afronden",
+	"error": "Er ging iets fout tijdens het uploaden van jouw QR-code :-/",
+	"view-on-site": "Klik hier om te bekijken",
+	"success": "Je QR-code werd met succes geüpload naar Wikimedia Commons!",
+	"goto-home": "Ga terug naar de homepage"
+}
