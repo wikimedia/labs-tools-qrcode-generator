@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Xuacu"
+		]
+	},
+	"qrcode-generator-title": "Entamu - Códigu QR",
+	"qrcode-generator-desc": "QRCode Generator ye una app web pal xenerador de códigu QR. Tamién ufre encontu pa xubilu a Wikimedia Commons.",
+	"qrcode-generator-name": "Xenerador de códigos QR",
+	"changelanguage": "Camudar llingua",
+	"my-language": "El mio idioma",
+	"button-save": "Guardar",
+	"button-cancel": "Encaboxar",
+	"login": "Aniciar sesión",
+	"logout": "Zarrar sesión",
+	"pleaselogin": "na app cola to cuenta de MediaWiki pa xubir el Códigu QR xeneráu a Wikimedia Commons!",
+	"login-as": "Aniciasti sesión como",
+	"enter-url": "Escribi la URL d'un páxina d'artículu de cualquier sitiu de Wikimedia.",
+	"submit": "Unviar",
+	"pagename": "Códigu QR del artículu de la wiki:",
+	"download": "Descargar",
+	"start-upload": "Principiar la xubida",
+	"modify-details": "Camudar el títulu y amestar una descripción del ficheru de códigu QR:",
+	"filename": "Nome del ficheru:",
+	"description": "Descripción:",
+	"upload": "Rematar la carga",
+	"error": "Daqué salió mal al xubir el códigu QR :-/",
+	"view-on-site": "Calca equí pa velu.",
+	"success": "El códigu QR cargóse correutamente'n Wikimedia Commons.",
+	"goto-home": "Volver a la páxina principal"
+}

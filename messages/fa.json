@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"FarsiNevis"
+		]
+	},
+	"changelanguage": "تغییر زبان",
+	"my-language": "زبان من",
+	"button-save": "ذخیره",
+	"button-cancel": "لغو",
+	"download": "بارگیری",
+	"start-upload": "آغاز بارگذاری",
+	"filename": "نام پرونده:",
+	"upload": "پایان بارگذاری"
+}

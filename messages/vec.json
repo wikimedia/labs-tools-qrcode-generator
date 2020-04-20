@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fierodelveneto"
+		]
+	},
+	"qrcode-generator-title": "Pàjina prinçipałe - Còdaxe QR",
+	"qrcode-generator-desc": "Xeneratore còdaxe QR ła xé on aplicasion Web par xenerare el còdaxe QR- In pì, el dà suporto par cargarlo so Wikimedia Commons.",
+	"qrcode-generator-name": "Xeneradore còdaxe QR",
+	"changelanguage": "Canbia łéngua",
+	"my-language": "Ła me łéngua",
+	"button-save": "Salva",
+	"button-cancel": "Descançełare",
+	"login": "Va drento",
+	"logout": "Va fora",
+	"pleaselogin": "Va drento co el to account MediaWiki par cargar el còdaxe QR xenerà so Wikimedia Commons!",
+	"login-as": "Te si ndà drento cofà $1",
+	"enter-url": "Scrivi on URL de na voxe de on calsìasi sito Wikimedia",
+	"submit": "Manda",
+	"pagename": "Codàxe QR par voxe Wiki:",
+	"download": "Descarga",
+	"start-upload": "Taca el cargamento",
+	"modify-details": "Modìfega el titoło e xonta na descrision par el file del còdaxe QR:",
+	"filename": "Nome del file:",
+	"description": "Descrision:",
+	"upload": "Finisi el cargamento",
+	"error": "Ghe xé sta on erore co se jera drio cargar el còdaxe QR :-/",
+	"view-on-site": "Schìcia cuà par védarlo",
+	"success": "El to còdaxe QR el xé sta cargà co coretesa so Wikimedia Commons!",
+	"goto-home": "Torna in te ła pàjina prinçipałe"
+}
