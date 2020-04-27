@@ -4,6 +4,7 @@
 			"Gomoko",
 			"Noelie-b",
 			"Thibaut120094",
+			"Ugofan",
 			"Wladek92"
 		]
 	},
@@ -27,7 +28,7 @@
 	"filename": "Nom de fichier :",
 	"description": "Description :",
 	"upload": "Terminer le téléchargement",
-	"error": "Quelque chose s’est mal passé en téléchargement votre QR code :-/",
+	"error": "Il y a eu un problème durant le téléversement de votre QR code :-/",
 	"view-on-site": "Cliquer ici pour le voir.",
 	"success": "Votre QR code a bien été téléchargé sur Wikimedia Commons !",
 	"goto-home": "Retour à la page d’accueil"
