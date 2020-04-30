@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fontan 030"
+		]
+	},
+	"button-cancel": "Болдырмау",
+	"login": "Кіру",
+	"logout": "Шығу",
+	"download": "Жүктеп алу",
+	"filename": "Файл атауы:",
+	"description": "Сипаттамасы:"
+}
