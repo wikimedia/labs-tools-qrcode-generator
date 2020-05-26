@@ -1,15 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bodhisattwa"
+			"Bodhisattwa",
+			"আফতাবুজ্জামান"
 		]
 	},
+	"qrcode-generator-title": "নীড় - QRCode",
+	"qrcode-generator-name": "কিউআরকোড উৎপাদক",
 	"changelanguage": "ভাষা পরিবর্তন করুন",
 	"my-language": "আমার ভাষা",
 	"button-save": "সংরক্ষণ",
 	"button-cancel": "বাতিল",
 	"login": "প্রবেশ",
 	"logout": "প্রস্থান",
+	"login-as": "আপনি এই হিসাবে প্রবেশ করেছেন",
 	"enter-url": "যে কোন উইকিমিডিয়া সাইটের যে কোন ইউআরএল দিন",
 	"submit": "জমা দিন",
 	"download": "ডাউনলোড",

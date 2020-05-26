@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Linuxmetel"
+		]
+	},
+	"qrcode-generator-title": "ホーム - QRコード",
+	"qrcode-generator-name": "QRコード生成機",
+	"changelanguage": "言語を変える",
+	"my-language": "自分の言語",
+	"button-save": "保存",
+	"button-cancel": "キャンセル",
+	"login": "ログイン",
+	"logout": "ログアウト",
+	"submit": "送信",
+	"download": "ダウンロード",
+	"start-upload": "アップロードを開始する",
+	"filename": "ファイル名:",
+	"view-on-site": "ここをクリックして、これを見る。",
+	"goto-home": "ホームページに戻る"
+}

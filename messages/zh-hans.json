@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"阿pp"
+		]
+	},
+	"qrcode-generator-title": "首页 - QRCode",
+	"qrcode-generator-desc": "QRCode Generator是用于生成二维码的网页应用。同时，其支持将二维码上传至Wikimedia Commons。",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "更改语言",
+	"my-language": "我的语言",
+	"button-save": "保存",
+	"button-cancel": "取消",
+	"login": "登录",
+	"logout": "注销",
+	"pleaselogin": "使用MediaWiki帐户并将生成的二维码上传至Wikimedia Commons！",
+	"login-as": "您的登录身份为",
+	"enter-url": "输入任意Wikimedia站点的条目页URL。",
+	"submit": "提交",
+	"pagename": "维基条目的二维码：",
+	"download": "下载",
+	"start-upload": "开始上传",
+	"modify-details": "为二维码文件更改标题并添加说明文字",
+	"filename": "文件名：",
+	"description": "说明：",
+	"upload": "结束上传",
+	"error": "上传二维码时发生错误 :-/",
+	"view-on-site": "点击此处查看。",
+	"success": "您的二维码已成功上传至Wikimedia Commons！",
+	"goto-home": "返回首页"
+}
