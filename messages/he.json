@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"YaronSh"
+		]
+	},
+	"qrcode-generator-title": "בית - קוד QR",
+	"qrcode-generator-desc": "מחולל קוד QR הוא יישומון רשת כדי לייצר קודים מסוג QR. כמו כן, מספק תמיכה בהעלאת הקוד לוויקישיתוף.",
+	"qrcode-generator-name": "מחולל קוד QR",
+	"changelanguage": "החלפת שפה",
+	"my-language": "השפה שלי",
+	"button-save": "שמירה",
+	"button-cancel": "ביטול",
+	"login": "כניסה",
+	"logout": "יציאה",
+	"pleaselogin": "ליישומון עם החשבון שלך במדיהויקי כדי להעלות את קוד ה־QR שחוללת לוויקישיתוף!",
+	"login-as": "נכנסת עם השם",
+	"enter-url": "נא להקליד כתובת של דף ערך מכל אתר שהוא תחת ויקימדיה.",
+	"submit": "הגשה",
+	"pagename": "קוד QR לערך בוויקי:",
+	"download": "הורדה",
+	"start-upload": "התחלת העלאה",
+	"modify-details": "שינוי הכותרת והוספת תיאור לקובץ קוד ה־QR:",
+	"filename": "שם הקובץ:",
+	"description": "תיאור:",
+	"upload": "סיום ההעלאה",
+	"error": "משהו השתבש בעת העלאת קוד ה־QR שלך :-/",
+	"view-on-site": "יש ללחוץ כאן כדי לצפות בו.",
+	"success": "קוד ה־QR שלך הועלה בהצלחה לוויקישיתוף!",
+	"goto-home": "חזרה לדף הבית"
+}
