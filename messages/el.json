@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Norhorn"
+		]
+	},
+	"qrcode-generator-title": "Αρχική - QRCode",
+	"qrcode-generator-desc": "Η γεννήτρια QRCode είναι μια δυκτιακή εφαρμογή δημιουργίας κώδικα QR. Επίσης, παρέχει υποστήριξη για μεταφόρτωση στο Wikipedia Commons.",
+	"qrcode-generator-name": "Γεννήτρια κώδικα QR",
+	"changelanguage": "Αλλαγή γλώσσας",
+	"my-language": "Η γλώσσα μου",
+	"button-save": "Αποθήκευση",
+	"button-cancel": "Ακύρωση",
+	"login": "Είσοδος",
+	"logout": "Αποσύνδεση",
+	"login-as": "Έχετε συνδεθεί ως",
+	"enter-url": "Εισαγάγετε την URL της σελίδας άρθρου, από τον ιστότοπο της Wikipedia.",
+	"submit": "Υποβολή",
+	"pagename": "Κώδικας QR για άρθρο της Βικι:",
+	"download": "Λήψη",
+	"start-upload": "Έναρξη μεταφόρτωσης",
+	"modify-details": "Επεξεργασία τίτλου και προσθήκη περιγραφής για το αρχείο κώδικα QR:",
+	"filename": "Όνομα αρχείου:",
+	"description": "Περιγραφή:",
+	"error": "Κάτι πήγε στραβά κατά την μεταφόρτωση του κώδικα QR σας :-/",
+	"view-on-site": "Κάντε κλικ εδώ για προβολή.",
+	"success": "Ο κώδικας QR σας μεταφορτώθηκε επιτυχώς στο Wikipedia Commons!",
+	"goto-home": "Επιστροφή στην αρχική σελίδα"
+}
