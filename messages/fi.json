@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Muovipullo"
+		]
+	},
+	"qrcode-generator-title": "Koti - QRCode",
+	"changelanguage": "Vaihda kieli",
+	"my-language": "Oma kieli",
+	"button-save": "Tallenna",
+	"login": "Kirjaudu sisään",
+	"logout": "Kirjaudu ulos",
+	"download": "Lataa",
+	"filename": "Tiedostonimi:",
+	"description": "Kuvaus:"
+}

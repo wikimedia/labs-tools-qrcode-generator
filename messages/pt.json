@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mansil alfalb"
+		]
+	},
+	"qrcode-generator-title": "Início - Código QR",
+	"qrcode-generator-desc": "O «Gerador de Código QR» é uma aplicação da Web para gerar o código QR. Também, fornece suporte para enviá-lo para a Wikimedia Commons.",
+	"qrcode-generator-name": "Gerador de Código QR",
+	"changelanguage": "Alterar Idioma",
+	"my-language": "O Meu Idioma",
+	"button-save": "Guardar",
+	"button-cancel": "Cancelar",
+	"login": "Iniciar sessão",
+	"logout": "Terminar sessão",
+	"pleaselogin": "para a aplicação com a sua conta MediWiki para enviar o código QR gerado para a Wikimedia Commons!",
+	"login-as": "Está autenticado como",
+	"enter-url": "Insira um URL de uma página de artigo de qualquer ''site'' da Wikimedia.",
+	"submit": "Submeter",
+	"pagename": "Código QR do artigo da wiki:",
+	"download": "Transferir",
+	"start-upload": "Iniciar envio",
+	"modify-details": "Modifique o título e adicione a descrição para o ficheiro do código QR:",
+	"filename": "Nome do ficheiro:",
+	"description": "Descrição:",
+	"upload": "Terminar envio",
+	"error": "Ocorreu algo de errado durante o envio do seu código QR :-/",
+	"view-on-site": "Clique aqui para o ver.",
+	"success": "O seu código QR foi enviado com sucesso para a Wikimedia Commons!",
+	"goto-home": "Voltar para a página de início"
+}
