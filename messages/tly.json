@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Patriot Kur"
+		]
+	},
+	"qrcode-generator-title": "Əsosə səhifə - QRCode",
+	"qrcode-generator-desc": "QRCode Generator",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Zıvoni Dəqiş Kardə",
+	"my-language": "Çəmə Zıvon",
+	"button-save": "Oqəte",
+	"button-cancel": "Ləğv karde",
+	"login": "Dəşey",
+	"logout": "Bəşey",
+	"submit": "Edaşt",
+	"filename": "Faylinüm:",
+	"description": "Təsvir"
+}

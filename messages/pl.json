@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"WaldiSt"
+		]
+	},
+	"qrcode-generator-title": "Strona główna - QRCode",
+	"qrcode-generator-desc": "QRCode Generator to aplikacja internetowa do generowania kodu QR. Zapewnia również wsparcie w celu przesłania go do Wikimedia Commons.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Zmień język",
+	"my-language": "Mój język",
+	"button-save": "Zapisz",
+	"button-cancel": "Anuluj",
+	"login": "Zaloguj",
+	"logout": "Wyloguj",
+	"pleaselogin": "do aplikacji z kontem MediaWiki, aby przesłać wygenerowany kod QR do Wikimedia Commons!",
+	"login-as": "Jesteś zalogowany jako",
+	"enter-url": "Wpisz adres URL strony artykułu z dowolnej witryny Wikimedia.",
+	"submit": "Prześlij",
+	"pagename": "Kod QR dla artykułu Wiki:",
+	"download": "Pobierz",
+	"start-upload": "Rozpoczęcie przesyłania",
+	"modify-details": "Zmodyfikuj tytuł i dodaj opis pliku kodu QR:",
+	"filename": "Nazwa pliku:",
+	"description": "Opis:",
+	"upload": "Zakończ przesyłanie",
+	"error": "Coś poszło nie tak podczas przesyłania kodu QR :-/",
+	"view-on-site": "Kliknij tutaj, aby go wyświetlić.",
+	"success": "Twój kod QR został pomyślnie przesłany do Wikimedia Commons!",
+	"goto-home": "Wróć do strony głównej"
+}
