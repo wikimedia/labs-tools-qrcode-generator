@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"BaRaN6161 TURK",
 			"Jayprakash12345",
 			"Robby"
 		]
@@ -16,7 +17,7 @@
 	"pleaselogin": "Login Message",
 	"login-as": "Login status",
 	"enter-url": "Label for URL",
-	"submit": "Label for Submit button\n{{idendtical|Submot}}",
+	"submit": "Label for submit button.\n{{Identical|Submit}}",
 	"pagename": "Page name for QRCode",
 	"download": "Label for Download button",
 	"start-upload": "Label for Start upload button",
