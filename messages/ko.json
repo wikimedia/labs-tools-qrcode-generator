@@ -1,21 +1,32 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ykhwong"
+			"Ykhwong",
+			"그냥기여자"
 		]
 	},
+	"qrcode-generator-title": "홈 - QR코드",
+	"qrcode-generator-desc": "QR코드 생성기는 QR코드를 만들어주는 웹 앱입니다. 또 이를 위키미디어 커먼즈에 업로드하는 것을 지원해줍니다.",
+	"qrcode-generator-name": "QR코드 생성기",
 	"changelanguage": "언어 바꾸기",
 	"my-language": "내 언어",
 	"button-save": "저장",
 	"button-cancel": "취소",
 	"login": "로그인",
 	"logout": "로그아웃",
+	"pleaselogin": "위키미디어 커먼즈에 생성한 QR코드를 업로드하기 위해 미디어위키 계정을 연동하세요!",
+	"login-as": "로그인한 계정:",
+	"enter-url": "아무 위키미디어 사이트의 문서 URL을 입력하세요.",
 	"submit": "제출",
 	"pagename": "위키 문서의 QR코드:",
 	"download": "다운로드",
 	"start-upload": "업로드 시작",
+	"modify-details": "QR코드 파일의 제목을 변경하고 설명을 추가하세요:",
 	"filename": "파일 이름:",
 	"description": "설명:",
 	"upload": "업로드 마치기",
+	"error": "당신의 QR코드를 올리는 도중 문제가 발생했습니다 :-/",
+	"view-on-site": "여기를 눌러서 보세요.",
+	"success": "당신의 QR코드가 위키미디어 커먼즈에 성공적으로 업로드되었습니다!",
 	"goto-home": "홈페이지로 돌아가기"
 }
