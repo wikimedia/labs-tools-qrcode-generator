@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"Mguix"
 		]
 	},
 	"qrcode-generator-title": "Inici • Codi QR",
+	"qrcode-generator-desc": "QRCode Generator és una aplicació web per a generar el codi QR. A més, proporciona suport per penjar-lo a Wikimedia Commons.",
 	"qrcode-generator-name": "Generador de codis QR",
 	"changelanguage": "Canvia la llengua",
 	"my-language": "La meva llengua",
@@ -12,8 +14,11 @@
 	"button-cancel": "Cancel·la",
 	"login": "Inicia una sessió",
 	"logout": "Finalitza la sessió",
+	"pleaselogin": "a l'aplicació amb el vostre compte MediaWiki per penjar el codi QR generat a Wikimedia Commons!",
 	"login-as": "Heu iniciat la sessió com a",
+	"enter-url": "Introduïu un URL d’una pàgina d’article des de qualsevol lloc de Wikimedia.",
 	"submit": "Tramet",
+	"pagename": "QRCode per l'article Wiki:",
 	"download": "Baixa",
 	"start-upload": "Inicia la pujada",
 	"modify-details": "Modifiqueu el títol i afegiu una descripció per al fitxer del codi QR:",
