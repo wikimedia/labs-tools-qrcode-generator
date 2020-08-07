@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"CmplstofB",
 			"Linuxmetel"
 		]
 	},
 	"qrcode-generator-title": "ホーム - QRコード",
+	"qrcode-generator-desc": "QRCode Generatorは，QRコードを生成するWebアプリです。また，Wikimediaコモンズへのアップロードにも対応しています。",
 	"qrcode-generator-name": "QRコード生成機",
 	"changelanguage": "言語を変える",
 	"my-language": "自分の言語",
@@ -12,10 +14,19 @@
 	"button-cancel": "キャンセル",
 	"login": "ログイン",
 	"logout": "ログアウト",
+	"pleaselogin": "ご自身のMediaWikiアカウントを本アプリと連携して，生成したQRコードをWikimediaコモンズにアップロードしましょう！",
+	"login-as": "ログイン名:",
+	"enter-url": "Wikimedia中の任意の記事のURLを入力してください。",
 	"submit": "送信",
+	"pagename": "記事に対するQRCode",
 	"download": "ダウンロード",
 	"start-upload": "アップロードを開始する",
+	"modify-details": "題名を編集し，QRコードの説明を追加する:",
 	"filename": "ファイル名:",
+	"description": "説明:",
+	"upload": "アップロード終了",
+	"error": "QRコードをアップロード中に不具合が生じました。",
 	"view-on-site": "ここをクリックして、これを見る。",
+	"success": "QRコードは成功裏にWikimediaコモンズにアップロードされました！",
 	"goto-home": "ホームページに戻る"
 }
