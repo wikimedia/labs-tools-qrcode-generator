@@ -1,16 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
-			"Muovipullo"
+			"Muovipullo",
+			"Pyscowicz"
 		]
 	},
 	"qrcode-generator-title": "Koti - QRCode",
+	"qrcode-generator-name": "QRCode Generator",
 	"changelanguage": "Vaihda kieli",
 	"my-language": "Oma kieli",
 	"button-save": "Tallenna",
+	"button-cancel": "Peruuta",
 	"login": "Kirjaudu sisään",
 	"logout": "Kirjaudu ulos",
+	"login-as": "Olet kirjautunut sisään nimellä",
+	"enter-url": "Kirjoita artikkelin URL-osoite miltä tahansa Wikimedia-sivustolta",
+	"submit": "Lähetä",
 	"download": "Lataa",
+	"start-upload": "Aloita tallennus",
 	"filename": "Tiedostonimi:",
-	"description": "Kuvaus:"
+	"description": "Kuvaus:",
+	"upload": "Viimeistele tallennus",
+	"goto-home": "Takaisin kotisivulle"
 }
