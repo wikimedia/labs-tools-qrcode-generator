@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Şeyx Şamil"
+		]
+	},
+	"changelanguage": "Dili dəyiş",
+	"my-language": "Mənim dilim",
+	"button-save": "Saxla",
+	"button-cancel": "Ləğv et",
+	"login": "Daxil ol",
+	"logout": "Çıxış",
+	"download": "Endir",
+	"start-upload": "Yükləməni başlat",
+	"filename": "Fayl adı:"
+}
