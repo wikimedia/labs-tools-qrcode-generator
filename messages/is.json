@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinn í Felli"
+		]
+	},
+	"qrcode-generator-title": "Forsíða - QRCode",
+	"qrcode-generator-desc": "QR-kóðagerð er vefforrit til að útbúa QR-kóða. Einnig styður það innsendingu QR-kóða inn á Wikimedia Commons.",
+	"qrcode-generator-name": "QR-kóðagerð",
+	"changelanguage": "Skipta um tungumál",
+	"my-language": "Tungumálið mitt",
+	"button-save": "Vista",
+	"button-cancel": "Hætta við",
+	"login": "Innskrá",
+	"logout": "Útskrá",
+	"pleaselogin": "í forritið með MediaWiki-notandaaðganginum þínum til að senda inn tilbúna QR-kóðann til Wikimedia Commons!",
+	"login-as": "Þú ert skráð/ur inn sem",
+	"enter-url": "Settu inn slóð á síðu greinar á einhverju Wikimedia-vefsvæði.",
+	"submit": "Senda inn",
+	"pagename": "QR-kóði Wiki-greinar:",
+	"download": "Sækja",
+	"start-upload": "Hefja innsendingu",
+	"modify-details": "Breyttu titlinum og bættu við lýsingu fyrir QR-kóðaskrána:",
+	"filename": "Skráarheiti:",
+	"description": "Lýsing:",
+	"upload": "Ljúka innsendingu",
+	"error": "Eitthvað mistókst við innsendingu á QR-kóðanum þínum :-/",
+	"view-on-site": "Smelltu hér til að skoða hana..",
+	"success": "Það tókst að senda QR-kóðann þinn inn í Wikimedia Commons!",
+	"goto-home": "Fara til baka á forsíðu"
+}
