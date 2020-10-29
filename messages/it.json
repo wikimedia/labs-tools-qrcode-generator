@@ -1,22 +1,32 @@
 {
 	"@metadata": {
 		"authors": [
-			"Beta16"
+			"Beta16",
+			"Yacine Boussoufa"
 		]
 	},
+	"qrcode-generator-title": "Home - QRCode",
+	"qrcode-generator-desc": "QRCode Generator è una web app per la generazione di QR code. Fornisce, anche, supporto per il caricamento si questi su Wikimedia Commons.",
 	"qrcode-generator-name": "Generatore QRCode",
 	"changelanguage": "Cambia lingua",
+	"my-language": "La mia lingua",
 	"button-save": "Salva",
 	"button-cancel": "Annulla",
 	"login": "Entra",
 	"logout": "Esci",
+	"pleaselogin": "all'app con il tuo account MediaWiki per caricare i QR Code generati su Wikimedia Commons!",
 	"login-as": "Hai effettuato l'accesso come",
+	"enter-url": "Inserisci l'URL di una pagina da qualunque sito Wikimedia.",
 	"submit": "Invia",
 	"pagename": "QRCode per voce Wiki:",
 	"download": "Scarica",
 	"start-upload": "Inizia il caricamento",
+	"modify-details": "Modifica il titolo e aggiungi una descrizione al file del QR code:",
 	"filename": "Nome file:",
 	"description": "Descrizione:",
 	"upload": "Completa caricamento",
+	"error": "Qualcosa è andato storno durante il caricamento del QR code :-/",
+	"view-on-site": "Clicca qui per vederlo.",
+	"success": "Il tuo QR code è stato caricato con successo su Wikimedia Commons!",
 	"goto-home": "Ritorna alla pagina principale"
 }
