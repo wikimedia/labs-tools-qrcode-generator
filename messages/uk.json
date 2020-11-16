@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlnt"
+		]
+	},
+	"changelanguage": "Змінити мову",
+	"button-save": "Зберегти",
+	"button-cancel": "Відмінити",
+	"submit": "Відправити",
+	"download": "Завантажити",
+	"goto-home": "Повернутися на домашню сторінку"
+}
