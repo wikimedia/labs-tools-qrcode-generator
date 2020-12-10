@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bikarhêner",
+			"Guherto"
+		]
+	},
+	"qrcode-generator-title": "Destpêk - QRCode",
+	"qrcode-generator-desc": "QRCode Generator sepaneke webê ye ku koda QRyê çêdike. Herwiha, piştgiriyê dide ku karibî wê hilbar bikî ser Wikimedia Commonsê.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Ziman Biguherîne",
+	"my-language": "Zimanê min",
+	"button-save": "Tomar bike",
+	"button-cancel": "Betal bike",
+	"login": "Têkeve",
+	"logout": "Derkeve",
+	"pleaselogin": "sepanê bi hesabê xwe ya MedyaWîkiyê ji bo hilbarkirina Koda QRyê ya ji bo Wikimedia Commonsê çêkirî!",
+	"login-as": "Te têket wek",
+	"enter-url": "URLyekê têkeve ji bo rûpeleke gotarê yê ji malpereke Wîkîmedyayê.",
+	"submit": "Bişîne",
+	"pagename": "QRKoda ji bo gotara Wîkiyê:",
+	"download": "Daxe",
+	"start-upload": "Dest bi hilbarkirinê bike",
+	"modify-details": "Ji bo dosyeya koda QRyê danasînekê tevlî bike û sernavê biguherîne:",
+	"filename": "Navê dosyeyê:",
+	"description": "Danasîn:",
+	"upload": "Hilbarkirinê biqedîne",
+	"error": "Tiştekî şaş rû da gava hilbarkirina koda te ya QRyê :-/",
+	"view-on-site": "Bitikîne vir ji bo dîtina wê.",
+	"success": "Koda te ya QRyê bi serkeftinî hilbar bû ser Wikimedia Commonsê!",
+	"goto-home": "Vegere destpêkê"
+}
