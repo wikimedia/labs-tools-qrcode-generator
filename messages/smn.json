@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Seipinne",
+			"Yupik"
+		]
+	},
+	"qrcode-generator-title": "Päikki - QRCode",
+	"button-save": "Vuorkkii",
+	"button-cancel": "Jooskâ",
+	"login": "Čäälit jieijâd siisâ",
+	"logout": "Čäälit jieijâd olgos",
+	"download": "Luođii",
+	"filename": "Tiätuvuárkkánommâ:",
+	"description": "Kuvvim:"
+}
