@@ -1,12 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
+			"Base",
 			"Vlnt"
 		]
 	},
+	"qrcode-generator-title": "Головна — QRCode",
+	"qrcode-generator-desc": "QRCode-генератор це веб-додаток для генерування QR-кодів. Він також підтримує їх завантаження на Вікісховище.",
+	"qrcode-generator-name": "QRCode-генератор",
 	"changelanguage": "Змінити мову",
+	"my-language": "Моя мова",
 	"button-save": "Зберегти",
 	"button-cancel": "Відмінити",
+	"login": "Увійти",
+	"logout": "Вийти",
+	"pleaselogin": "до додатку використовуючи Ваш обліковий запис на MediaWiki для завантаження QR-кодів на Вікісховище!",
 	"submit": "Відправити",
 	"download": "Завантажити",
 	"goto-home": "Повернутися на домашню сторінку"
