@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"qrcode-generator-title": "Pàgena prengepàle - QRCode",
+	"qrcode-generator-desc": "'U Generatore de QRCode jè 'na web app pe generazione de QR code. Dèje, pure, supporte pu carecamende de chiste sus a Uicchiemdie Commons.",
+	"qrcode-generator-name": "Generatore de QRCode",
+	"changelanguage": "Cange 'a lènghe",
+	"my-language": "'A lènga meje",
+	"button-save": "Reggìstre",
+	"button-cancel": "Annulle",
+	"login": "Tràse",
+	"logout": "Isse",
+	"pleaselogin": "all'app cu 'u cunde MediaUicchi tune pe carecà le QR Code generate sus a Uicchiemdie Commons!",
+	"login-as": "Tu è trasute cumme a",
+	"enter-url": "Mitte l'URL de 'na pàgene da 'nu site Uicchimedie.",
+	"submit": "Conferme",
+	"pagename": "QRCode pa vôsce Uicchi:",
+	"download": "Scareche",
+	"start-upload": "Accumenze 'u carecamende",
+	"modify-details": "Cange 'u titole e aggiunge 'na descrizione a 'u file d'u QR code:",
+	"filename": "Nome d'u file:",
+	"description": "Descrizione:",
+	"upload": "Spicce 'u carecamende",
+	"error": "Quacchecose ha sicute stuèrte durande 'u carecamende d'u QR code :-/",
+	"view-on-site": "Cazze aqquà pe 'ndrucarle.",
+	"success": "'U QR code tune ha state carecate sus a Uicchimedie Commons!",
+	"goto-home": "Tuèrne a 'a pàgena prengepàle"
+}
