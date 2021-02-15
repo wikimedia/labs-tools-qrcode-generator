@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"qrcode-generator-title": "Domov – QRCode",
+	"qrcode-generator-desc": "Generator QRCode je spletna aplikacija za generiranje kode QR. Omogoča tudi njeno nalaganje v Wikimedijino zbirko.",
+	"qrcode-generator-name": "Generator GQRCode",
+	"changelanguage": "Spremeni jezik",
+	"my-language": "Moj jezik",
+	"button-save": "Shrani",
+	"button-cancel": "Prekliči",
+	"login": "Prijava",
+	"logout": "Odjava",
+	"pleaselogin": "v aplikacijo z vašim računom MediaWiki, da boste generirano kodo QR lahko naložili v Wikimedijino zbirko!",
+	"login-as": "Prijavljeni ste kot",
+	"enter-url": "Vnesite ULR strani članka katerega koli spletišča Wikimedije.",
+	"submit": "Pošlji",
+	"pagename": "QRCode za viki članek:",
+	"download": "Prenesi",
+	"start-upload": "Začni nalaganje",
+	"modify-details": "Spremeni naslov in dodaj opis datoteke QR kode:",
+	"filename": "Ime datoteke:",
+	"description": "Opis:",
+	"upload": "Končaj nalaganje",
+	"error": "Pri nalaganju kode QR je šlo nekaj narobe :-/",
+	"view-on-site": "Da si jo ogledate, kliknite tu.",
+	"success": "Vaša koda QR je bila uspešno naložena v Wikimedijino zbirko!",
+	"goto-home": "Pojdite na glavno stran"
+}
