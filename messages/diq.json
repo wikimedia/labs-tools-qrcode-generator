@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mirzali",
 			"Orbot707"
 		]
 	},
@@ -23,7 +24,7 @@
 	"modify-details": "Sereki bıvurnê u dosyay kodê QR yew izahat cıkere",
 	"filename": "Nameydosya:",
 	"description": "İzahat:",
-	"upload": "Barkerdış qediya",
+	"upload": "Barkerdışi bıqedene",
 	"error": "Kodê QR barkerdış de tay çi çewt şı :-/",
 	"view-on-site": "Mocnayışi rê tiyay bıploğnê",
 	"success": "Kodê QR barê Wikimedia Commonsi biyo!",
