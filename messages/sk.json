@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jaroslav.micek"
+		]
+	},
+	"qrcode-generator-title": "Domovská stránka - QRCode",
+	"qrcode-generator-desc": "Generátor QR kódov je webová aplikácia na generovanie QR kódov. Taktiež obsahuje pomoc pri nahrávaní kódov do Wikimedia Commons.",
+	"qrcode-generator-name": "Generátor QR kódov",
+	"changelanguage": "Zmeniť jazyk",
+	"my-language": "Môj jazyk",
+	"button-save": "Uložiť",
+	"button-cancel": "Zrušiť",
+	"login": "Prihlásenie",
+	"logout": "Odhlásenie",
+	"pleaselogin": "Nahrávanie vygenerovaných QR kódov do Wikimedia Commons prostredníctvom vášho účtu v MediaWiki!",
+	"login-as": "Ste prihlásený/á ako",
+	"enter-url": "Zadajte URL (adresu stránky) nejakého článku zo stránok  Wikimédia.",
+	"submit": "Odoslať",
+	"pagename": "QR kód pre článok Wiki:",
+	"download": "Stiahnuť",
+	"start-upload": "Začať nahrávanie",
+	"modify-details": "Upravte názov a pridajte popis pre súbor s QR kódom:",
+	"filename": "Názov súboru:",
+	"description": "Popis:",
+	"upload": "Ukončiť nahrávanie",
+	"error": "Pri nahrávaní vášho QR kódu sa niečo pokazilo :-/",
+	"view-on-site": "Klikni sem pre zobrazenie.",
+	"success": "Váš QR kód bol úspešne nahraný do Wikimedia Commons!",
+	"goto-home": "Späť na domovskú stránku"
+}
