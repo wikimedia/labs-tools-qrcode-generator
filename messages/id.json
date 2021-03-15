@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naufal06"
+		]
+	},
+	"qrcode-generator-title": "Beranda - QRCode",
+	"qrcode-generator-desc": "QRCode Generator adalah sebuah aplikasi web untuk membuat kode QR dan juga menyediakan dukungan untuk mengunggahnya ke Wikimedia Commons.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Ganti Bahasa",
+	"my-language": "Bahasa Saya",
+	"button-save": "Simpan",
+	"button-cancel": "Batal",
+	"login": "Masuk log",
+	"logout": "Keluar log",
+	"pleaselogin": "ke aplikasi dengan akun MediaWiki Anda untuk mengunggah Kode QR yang dibuat ke Wikimedia Commons!",
+	"login-as": "Anda telah masuk log sebagai",
+	"enter-url": "Masukkan sebuah URL sebuah halaman artikel dari situs Wikimedia.",
+	"submit": "Kirim",
+	"pagename": "QRCode untuk artikel Wiki:",
+	"download": "Unduh",
+	"start-upload": "Mulai mengunggah",
+	"modify-details": "Modifikasi judul dan tambahkan sebuah deskripsi untuk berkas kode QR:",
+	"filename": "Nama berkas:",
+	"description": "Deskripsi:",
+	"upload": "Selesai mengunggah",
+	"error": "Ada yang salah saat mengunggah kode QR Anda :-/",
+	"view-on-site": "Klik di sini untuk menampilkannya",
+	"success": "Kode QR Anda berhasil diunggah ke Wikimedia Commons!",
+	"goto-home": "Kembali ke halaman beranda"
+}
