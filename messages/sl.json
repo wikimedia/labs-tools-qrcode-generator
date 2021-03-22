@@ -15,7 +15,7 @@
 	"logout": "Odjava",
 	"pleaselogin": "v aplikacijo z vašim računom MediaWiki, da boste generirano kodo QR lahko naložili v Wikimedijino zbirko!",
 	"login-as": "Prijavljeni ste kot",
-	"enter-url": "Vnesite ULR strani članka katerega koli spletišča Wikimedije.",
+	"enter-url": "Vnesite ULR strani članka katerega koli spletnega mesta Wikimedije.",
 	"submit": "Pošlji",
 	"pagename": "QRCode za viki članek:",
 	"download": "Prenesi",
