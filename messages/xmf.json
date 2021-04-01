@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Narazeni"
+		]
+	},
+	"qrcode-generator-title": "დუდხასჷლა - QRკოდი",
+	"qrcode-generator-name": "QRკოდი გენერატორი",
+	"changelanguage": "ნინაშ თირუა",
+	"my-language": "ჩქიმი ნინა",
+	"button-save": "ჩუალა",
+	"button-cancel": "გოუქვაფა",
+	"login": "მიშულა",
+	"logout": "გიშულა",
+	"login-as": "თქვა მიშულირი რეთ მუჭოთ",
+	"pagename": "QRკოდი Wiki სტატიაშო:",
+	"download": "გჷმოხარგუა",
+	"start-upload": "ეხარგუაშ დოჭყაფა",
+	"filename": "ფაილიშ ჯოხო:",
+	"description": "ეჭარუა:",
+	"upload": "ეხარგუაშ თება",
+	"goto-home": "დუდხასჷლაშა დორთინა"
+}
