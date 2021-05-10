@@ -3,10 +3,12 @@
 		"authors": [
 			"FF-11",
 			"FF11",
+			"Falwye",
 			"ManuelFranz"
 		]
 	},
 	"qrcode-generator-title": "Startseite - QR-Code",
+	"qrcode-generator-desc": "QRCode Generator ist ein webbasierter Generator für QR Codes. Ein direktes Hochladen auf Wikimedia Commons wird unterstützt.",
 	"qrcode-generator-name": "QR-Code-Generator",
 	"changelanguage": "Sprache ändern",
 	"my-language": "Meine Sprache",
