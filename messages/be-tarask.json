@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renessaince"
+		]
+	},
+	"qrcode-generator-title": "Галоўная — QRCode",
+	"qrcode-generator-name": "Генэратар QRCode",
+	"changelanguage": "Зьмяніць мову",
+	"my-language": "Мая мова",
+	"button-save": "Захаваць",
+	"button-cancel": "Скасаваць",
+	"login": "Увайсьці",
+	"logout": "Выйсьці"
+}
