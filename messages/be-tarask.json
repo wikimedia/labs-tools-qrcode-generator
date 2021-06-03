@@ -5,11 +5,16 @@
 		]
 	},
 	"qrcode-generator-title": "Галоўная — QRCode",
+	"qrcode-generator-desc": "QRCode Generator — вэб-прылада для стварэньня QR-коду. Акрамя таго, яна дапамагае загружаць яго ў Вікісховішча.",
 	"qrcode-generator-name": "Генэратар QRCode",
 	"changelanguage": "Зьмяніць мову",
 	"my-language": "Мая мова",
 	"button-save": "Захаваць",
 	"button-cancel": "Скасаваць",
 	"login": "Увайсьці",
-	"logout": "Выйсьці"
+	"logout": "Выйсьці",
+	"modify-details": "Зьмяніць назву і дадаць апісаньне файлу QR-коду:",
+	"filename": "Назва файлу:",
+	"description": "Апісаньне:",
+	"success": "Ваш QR-код пасьпяхова загружаны ў Вікісховішча!"
 }
