@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"BaRaN6161 TURK",
 			"Jayprakash12345",
 			"Robby"
@@ -10,7 +11,7 @@
 	"qrcode-generator-name": "App name",
 	"changelanguage": "Label to change Language",
 	"my-language": "Label for my Language",
-	"button-save": "Label for Save button",
+	"button-save": "Label for Save button.\n\n{{Identical|Save}}",
 	"button-cancel": "Label for Cancel button",
 	"login": "Label for Login",
 	"logout": "Label for Logout",
@@ -19,7 +20,7 @@
 	"enter-url": "Label for URL",
 	"submit": "Label for submit button.\n{{Identical|Submit}}",
 	"pagename": "Page name for QRCode",
-	"download": "Label for Download button",
+	"download": "Label for Download button\n\n{{Identical|Download}}",
 	"start-upload": "Label for Start upload button",
 	"modify-details": "Modify the details before uploading the file",
 	"filename": "Filename label",

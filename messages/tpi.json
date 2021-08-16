@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"MinecraftAustralia"
+		]
+	},
+	"qrcode-generator-title": "Haus - QRCode",
+	"qrcode-generator-desc": "QRCode Meika stap intanet app tu meik wanpela QRCode. Olso, givim sapotim tu putim on Wikimedia Commons.",
+	"qrcode-generator-name": "QRCode Meika",
+	"changelanguage": "Senisim Tokples",
+	"my-language": "Tokples bilong mi",
+	"button-save": "Holim long tingting",
+	"button-cancel": "Toromwe senis",
+	"login": "Login",
+	"logout": "Logout",
+	"pleaselogin": "tu wanpela app wantaim MediaWiki akount bilong yupela tu putim wanpela QR Code on Wikimedia Commons!",
+	"login-as": "Yu logim in as",
+	"enter-url": "Taipim URL bilong eni peij bilong artikel bilong eni Wikimedia websait.",
+	"submit": "Submitim",
+	"pagename": "QRCode long Wiki peij:",
+	"download": "Daunlod",
+	"start-upload": "Statim uplod",
+	"modify-details": "Senis taitl na adim deskripsion long QR kod fail:",
+	"filename": "Nem bilong fail:",
+	"description": "Deskripsion:",
+	"upload": "Pinis uplod",
+	"error": "Samting go rong wail uplodin QR kod bilong yupela :-/",
+	"view-on-site": "Klikim hiya tu lukatim.",
+	"success": "QR kod bilong yupela stap suksesfuli uploded tu Wikimedia Commons!",
+	"goto-home": "Go bek tu peij bilong haus"
+}
