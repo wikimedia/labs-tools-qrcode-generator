@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Destinid10 2",
 			"Fitoschido",
 			"Juenti el toju"
 		]
 	},
+	"qrcode-generator-title": "Inicio - QRCode",
+	"qrcode-generator-desc": "QRCode Generator es una aplicación web para generar códigos QR. Además, proporciona soporte para subirlo a Wikimedia Commons",
 	"qrcode-generator-name": "Generador de códigos QR",
 	"changelanguage": "Cambiar idioma",
 	"my-language": "Mi idioma",
@@ -12,6 +15,7 @@
 	"button-cancel": "Cancelar",
 	"login": "Acceder",
 	"logout": "Salir",
+	"pleaselogin": "¡ve a la aplicación con tu cuenta de MediaWiki para cargar el código QR generado a Wikimedia Commons!",
 	"login-as": "Has accedido como",
 	"enter-url": "Proporciona el URL de un artículo de cualquier sitio de Wikimedia.",
 	"submit": "Enviar",
@@ -22,6 +26,7 @@
 	"filename": "Nombre de archivo:",
 	"description": "Descripción:",
 	"upload": "Finalizar carga",
+	"error": "Algo fue mal mientras se estaba subiendo tu código QR :-/",
 	"view-on-site": "Pulsa aquí para verlo.",
 	"success": "El código QR se cargó correctamente en Wikimedia Commons.",
 	"goto-home": "Volver a la página principal"
