@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"L2212"
+		]
+	},
+	"qrcode-generator-title": "Pàgina printzipale - QRCode",
+	"qrcode-generator-desc": "QRCode Generator est un'aplicatzione web pro generare unu còdighe QR. In prus frunit suportu pro lu carrigare in Wikimedia Commons.",
+	"qrcode-generator-name": "Generadore de còdighes QR",
+	"changelanguage": "Càmbia sa limba",
+	"my-language": "Sa limba mea",
+	"button-save": "Sarva",
+	"button-cancel": "Annulla",
+	"login": "Intra",
+	"logout": "Essi",
+	"pleaselogin": "a s'aplicatzione cun su contu tuo de MediaWiki pro carrigare su còdighe QR ingendradu in Wikimedia Commons!",
+	"login-as": "Ses intradu comente",
+	"enter-url": "Inserta un'URL de una pàgina de artìculu dae cale si siat situ de Wikimedia.",
+	"submit": "Imbia",
+	"pagename": "QRCode pro s'artìculu Wiki:",
+	"download": "Iscàrriga",
+	"start-upload": "Incumintza a carrigare",
+	"modify-details": "Modìfica su tìtulu e annanghe una descritzione pro su documentu de su còdighe QR:",
+	"filename": "Nùmene documentu:",
+	"description": "Descritzione:",
+	"upload": "Concrui su carrigamentu",
+	"error": "B'at àpidu unu problema cun su carrigamentu de su còdighe QR tuo :-/",
+	"view-on-site": "Incarca inoghe pro lu bìdere.",
+	"success": "Su còdighe QR tuo est istadu carrigadu chene problemas in Wikimedia Commons!",
+	"goto-home": "Torra a sa pàgina printzipale"
+}
