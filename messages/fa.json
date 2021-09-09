@@ -1,15 +1,32 @@
 {
 	"@metadata": {
 		"authors": [
+			"Darafsh",
 			"FarsiNevis"
 		]
 	},
+	"qrcode-generator-title": "صفحهٔ اصلی - QRCode",
+	"qrcode-generator-desc": "QRCode Generator یک وب‌سایت و اپلیکشن است که کد QR ایجاد می‌کند. همچنین، کمک می‌کند تا این کدهای ساخته‌شده در ویکی‌انبار نیز بارگذاری شوند.",
+	"qrcode-generator-name": "QRCode Generator",
 	"changelanguage": "تغییر زبان",
 	"my-language": "زبان من",
 	"button-save": "ذخیره",
 	"button-cancel": "لغو",
+	"login": "ورود",
+	"logout": "خروج",
+	"pleaselogin": "برای بارگذاری کد QR تولیدشده، با حساب کاربری مدیاویکی خود به برنامه وارد شوید!",
+	"login-as": "واردشده با نام کاربری",
+	"enter-url": "نشانی یک صفحه از هر کدام از وب‌گاه‌های ویکی‌مدیا را وارد کنید.",
+	"submit": "ثبت",
+	"pagename": "کد QR برای مقالهٔ ویکی:",
 	"download": "بارگیری",
 	"start-upload": "آغاز بارگذاری",
+	"modify-details": "عنوان را تغییر دهید و توضیحی برای پروندهٔ کد QR بیفزایید:",
 	"filename": "نام پرونده:",
-	"upload": "پایان بارگذاری"
+	"description": "توضیحات:",
+	"upload": "پایان بارگذاری",
+	"error": "در هنگام بارگذاری کد QR اشتباهی رخ داده :-/",
+	"view-on-site": "برای مشاهده، اینجا کلیک کنید.",
+	"success": "کد QR شما با موفقیت در ویکی‌انبار بارگذاری شد!",
+	"goto-home": "بازگشت به صفحهٔ اصلی"
 }
