@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"GBAB"
+		]
+	},
+	"qrcode-generator-title": "Főoldal – QRCode",
+	"qrcode-generator-desc": "A QRCode Generater és QR-kódokat létrehozó webes alkalmazás, amely ezek Wikimedia Commons-ra való feltöltését is támogatja.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Nyelv módosítása",
+	"my-language": "Saját nyelvem",
+	"button-save": "Mentés",
+	"button-cancel": "Mégse",
+	"login": "Bejelentkezés",
+	"logout": "Kijelentkezés",
+	"pleaselogin": "az alkalmazásba a MediaWiki-diókjával, hogy a létrehozott QR-kódot feltölthesse a Wikimedia Commons-ra.",
+	"login-as": "Bejelentkezett a következő fiókba:",
+	"enter-url": "Adja meg bármely Wikimedia oldal valamely szócikkének URL-jét.",
+	"submit": "Beküldés",
+	"pagename": "A Wiki-szócikk QR-kódja:",
+	"download": "Letöltés",
+	"start-upload": "Feltöltés megkezdése",
+	"modify-details": "A QR-kódot tartalmazó fájl címének módosítása és leírás hozzáadása:",
+	"filename": "Fájlnév:",
+	"description": "Leírás:",
+	"upload": "Feltöltés befejezése",
+	"error": "Valami hiba csúszott a QR-kód feltöltésébe :-/",
+	"view-on-site": "Kattintson ide a megtekintéshez.",
+	"success": "QR-kódja sikeresen feltöltődött a Wikimedia Commons-ra.",
+	"goto-home": "Vissza a főoldalra"
+}
