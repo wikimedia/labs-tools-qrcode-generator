@@ -3,6 +3,7 @@
 		"authors": [
 			"Destinid10 2",
 			"Fitoschido",
+			"Jakeukalane",
 			"Juenti el toju"
 		]
 	},
@@ -19,7 +20,7 @@
 	"login-as": "Has accedido como",
 	"enter-url": "Proporciona el URL de un artículo de cualquier sitio de Wikimedia.",
 	"submit": "Enviar",
-	"pagename": "Código QR del artículo del wiki:",
+	"pagename": "Código QR del artículo de la wiki:",
 	"download": "Descargar",
 	"start-upload": "Comenzar carga",
 	"modify-details": "Modificar el título y agregar una descripción para el archivo de código QR:",
