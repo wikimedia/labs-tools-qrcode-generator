@@ -4,11 +4,13 @@
 			"Ajeje Brazorf"
 		]
 	},
+	"changelanguage": "Cancia lingua",
 	"my-language": "La mè lingua",
 	"button-save": "Sarva",
 	"button-cancel": "Annulla",
 	"login": "Trasi",
 	"logout": "Nesci",
+	"login-as": "Trasisti comu",
 	"download": "Scàrrica",
 	"filename": "Nomu dû file:",
 	"description": "Discrizzioni:"
