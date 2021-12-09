@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Quentí"
+		]
+	},
+	"qrcode-generator-title": "Acuèlh — QRCode",
+	"qrcode-generator-desc": "QRCode Generator es una aplicacion web per generar de còdis QR. De mai, pren en carga lo mandadís cap a Wikimedia Commons.",
+	"qrcode-generator-name": "Generador de còdis QR",
+	"changelanguage": "Cambiar de lenga",
+	"my-language": "Ma lenga",
+	"button-save": "Enregistrar",
+	"button-cancel": "Anullar",
+	"login": "Connexion",
+	"logout": "Desconnexion",
+	"pleaselogin": "a l’aplicacion amb vòstre compte MediaWiki per enviar lo còdi generat a Wikimedia Commons !",
+	"login-as": "Sètz connectat en tant que",
+	"enter-url": "Introdusissètz una URL d’una pagina d’article de quin site que siá de Wikimedia.",
+	"submit": "Enviar",
+	"pagename": "QRCode per l'article Wiki :",
+	"download": "Telecargar",
+	"start-upload": "Amodar lo mandadís",
+	"modify-details": "Modificatz lo títol e apondètz una descripcion pel fichièr del còdi QR :",
+	"filename": "Nom del fichièr :",
+	"description": "Descripcion :",
+	"upload": "Acabar lo telecargament",
+	"error": "S’es produsida una error en enviant lo còdi QR :-/",
+	"view-on-site": "Clicar aicí per lo veire.",
+	"success": "Vòstre còdi QR s'es corrèctament enviat a Wikimedia Commons !",
+	"goto-home": "Tornar a la pagina principala"
+}
