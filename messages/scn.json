@@ -11,7 +11,11 @@
 	"login": "Trasi",
 	"logout": "Nesci",
 	"login-as": "Trasisti comu",
+	"submit": "Mànna",
+	"pagename": "QRCode pâ vuci wiki:",
 	"download": "Scàrrica",
+	"start-upload": "Ncigna carricamentu",
+	"modify-details": "Cancia lu tìtulu e agghiunci na discrizzioni ô file dû còdici QR:",
 	"filename": "Nomu dû file:",
 	"description": "Discrizzioni:"
 }
