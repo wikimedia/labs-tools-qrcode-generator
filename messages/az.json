@@ -12,5 +12,11 @@
 	"logout": "Çıxış",
 	"download": "Endir",
 	"start-upload": "Yükləməni başlat",
-	"filename": "Fayl adı:"
+	"filename": "Fayl adı:",
+	"description": "İzah:",
+	"upload": "Yükləməni bitir",
+	"error": "QR kodunuz yüklənərkən bir şey yolunda getmədi :-/",
+	"view-on-site": "Görmək üçün kliklə.",
+	"success": "QR kodunuz uğurla Vikianbara yükləndi!",
+	"goto-home": "Ana səhifəyə qayıt"
 }
