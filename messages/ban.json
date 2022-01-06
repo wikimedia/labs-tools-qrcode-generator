@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joseagush"
+		]
+	},
+	"qrcode-generator-title": "Kaca utama - QRCode",
+	"qrcode-generator-desc": "QRCode Generator inggih punika aplikasi web anggén ngaryanang kode QR miwah dukungan antuk ngunggah ka Wikimédia Commons.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Uah basa",
+	"my-language": "Basa titiang",
+	"button-save": "Raksa",
+	"button-cancel": "Wangdé",
+	"login": "Manjing log",
+	"logout": "Medal log",
+	"login-as": "Ida sampun manjing log manados $1",
+	"submit": "Kirim",
+	"pagename": "QRCode anggén suratan Wiki:",
+	"download": "Unduh",
+	"start-upload": "Ngawitin ngunggah"
+}
