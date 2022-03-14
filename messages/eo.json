@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robin van der Vliet"
+		]
+	},
+	"my-language": "Mia lingvo",
+	"button-save": "Konservi",
+	"button-cancel": "Nuligi",
+	"login": "Ensaluti",
+	"logout": "Elsaluti",
+	"filename": "Dosiernomo:",
+	"description": "Priskribo:"
+}
