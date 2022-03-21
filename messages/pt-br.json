@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Eduardo Addad de Oliveira",
-			"Eduardoaddad"
+			"Eduardoaddad",
+			"Juan90264"
 		]
 	},
-	"qrcode-generator-title": "Casa - QRCode",
+	"qrcode-generator-title": "Início - QRCode",
 	"qrcode-generator-desc": "O Gerador de QRCode é um aplicativo da web para gerar o código QR. Além disso, fornece suporte para carregá-lo no Wikimedia Commons.",
 	"qrcode-generator-name": "Gerador de QRCode",
 	"changelanguage": "Mudar idioma",
