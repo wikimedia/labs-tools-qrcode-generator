@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"StarrySky"
+		]
+	},
+	"qrcode-generator-title": "Hafan - QRCcode",
+	"qrcode-generator-name": "QRCode Generadur",
+	"changelanguage": "Newid iaith",
+	"my-language": "Fy Iaith",
+	"button-save": "Cadw",
+	"button-cancel": "Diddymu",
+	"login": "Mewngofnodi",
+	"logout": "Allgofnodi",
+	"login-as": "Rydych chi wedi mewngofnodi fel",
+	"enter-url": "Rhowch URL o dudalen erthygl o unrhyw wefan Wikimedia.",
+	"submit": "Cyflwyner",
+	"pagename": "QRCode ar gyfer erthygl Wiki:",
+	"download": "Lawrlwytho",
+	"start-upload": "Dechrau uwchlwytho",
+	"filename": "Enw'r ffeil:",
+	"description": "Disgrifiad:",
+	"upload": "Gorffen uwchlwytho",
+	"error": "Aeth rhywbeth o'i le wrth uwchlwytho'ch cod QR :-/",
+	"view-on-site": "Cliciwch yma i'w weld."
+}
