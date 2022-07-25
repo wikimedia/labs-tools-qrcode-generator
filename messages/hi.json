@@ -3,6 +3,7 @@
 		"authors": [
 			"Abijeet Patro",
 			"Jayprakash12345",
+			"Saurmandal",
 			"Suyash.dwivedi"
 		]
 	},
@@ -18,7 +19,7 @@
 	"submit": "भेजें",
 	"download": "डाउनलोड",
 	"start-upload": "अपलोड शुरू करें",
-	"filename": "फ़ाईल का नाम:",
+	"filename": "फ़ाइल का नाम:",
 	"description": "विवरण :",
 	"upload": "अपलोड समाप्त करें",
 	"error": "आपका  क्यूआर कोड अपलोड करते समय कुछ त्रुटि हुई है : - /",
