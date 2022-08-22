@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"GinawaSaHapon"
+		]
+	},
+	"qrcode-generator-title": "Tahanan - QRCode",
+	"qrcode-generator-desc": "Web app ang QRCode Generator para mag-generate ng mga QR code. Sinusuportahan din nito ang pag-upload sa Wikimedia Commons.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Palitan ang wika",
+	"my-language": "Wika ko",
+	"button-save": "I-save",
+	"button-cancel": "Ikansela",
+	"login": "Mag-login",
+	"logout": "Mag-logout",
+	"pleaselogin": "sa app gamit ang account mo sa MediaWiki para ma-upload ang na-generat3 na QR Code sa Wikimedia Commons!",
+	"login-as": "Naka-login bilang si",
+	"enter-url": "Ilagay ang URL ng pahina ng artikulo mula sa kahit anong site ng Wikimedia.",
+	"submit": "Ipasa",
+	"pagename": "QRCode ng artikulo sa wiki:",
+	"download": "I-download",
+	"start-upload": "I-upload na",
+	"modify-details": "Baguhin ang pamagat at lagyan ng paglalarawan para sa file ng QR code:",
+	"filename": "Pangalan:",
+	"description": "Paglalarawan:",
+	"upload": "Tapusin ang pag-upload",
+	"error": "May nangyaring mali habang ina-upload ang QR code mo :-/",
+	"view-on-site": "Pindutin ito para makita ito.",
+	"success": "Na-upload na ang QR code sa Wikimedia Commons!",
+	"goto-home": "Umuwi sa tahanan"
+}
