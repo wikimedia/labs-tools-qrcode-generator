@@ -4,6 +4,7 @@
 			"FF-11",
 			"FF11",
 			"Falwye",
+			"Justman10000",
 			"ManuelFranz"
 		]
 	},
@@ -16,6 +17,7 @@
 	"button-cancel": "Abbrechen",
 	"login": "Anmelden",
 	"logout": "Abmelden",
+	"pleaselogin": "mit deinem MediaWiki-Konto zur App, um den generierten QR-Code auf Wikimedia Commons hochzuladen!",
 	"login-as": "Du bist angemeldet als",
 	"enter-url": "Gib die URL eines Artikels von einer Wikimedia-Seite ein.",
 	"submit": "Absenden",
