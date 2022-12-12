@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"qrcode-generator-title": "Почетна — QRкод",
+	"changelanguage": "Промени језик",
+	"my-language": "Мој језик",
+	"button-save": "Сачувај",
+	"button-cancel": "Откажи",
+	"login": "Пријава",
+	"logout": "Одјави ме",
+	"login-as": "Пријављени сте као",
+	"submit": "Пошаљи",
+	"pagename": "QR код за Вики чланак:",
+	"download": "Преузми",
+	"start-upload": "Почни отпремање",
+	"filename": "Назив датотеке:",
+	"description": "Опис:",
+	"view-on-site": "Види даотеку.",
+	"success": "Ваш QR код је успешно отпремљен на Викимедијину оставу!",
+	"goto-home": "Назад на почетну"
+}
