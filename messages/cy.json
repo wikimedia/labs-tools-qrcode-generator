@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Afalau",
 			"StarrySky"
 		]
 	},
@@ -22,5 +23,6 @@
 	"description": "Disgrifiad:",
 	"upload": "Gorffen uwchlwytho",
 	"error": "Aeth rhywbeth o'i le wrth uwchlwytho'ch cod QR :-/",
-	"view-on-site": "Cliciwch yma i'w weld."
+	"view-on-site": "Cliciwch yma i'w weld.",
+	"goto-home": "Nôl i'r hafan"
 }
