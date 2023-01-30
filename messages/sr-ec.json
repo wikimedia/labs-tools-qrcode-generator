@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kizule",
 			"Milicevic01"
 		]
 	},
@@ -18,6 +19,7 @@
 	"start-upload": "Почни отпремање",
 	"filename": "Назив датотеке:",
 	"description": "Опис:",
+	"upload": "Заврши отпремање",
 	"view-on-site": "Види даотеку.",
 	"success": "Ваш QR код је успешно отпремљен на Викимедијину оставу!",
 	"goto-home": "Назад на почетну"
