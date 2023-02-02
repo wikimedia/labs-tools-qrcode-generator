@@ -1,31 +1,32 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"PonkoSasuke"
 		]
 	},
-	"qrcode-generator-title": "Home - QR-code",
-	"qrcode-generator-desc": "QRCode Generator is een web app om QR-codes aan te maken. Geeft ook support bij het uploaden naar Wikimedia Commons.",
-	"qrcode-generator-name": "QR-code generator",
+	"qrcode-generator-title": "Thuis – QR-code",
+	"qrcode-generator-desc": "QRCode Generator is een web-app om QR-codes aan te maken. Ook kun je ze hiermee uploaden naar Wikimedia Commons.",
+	"qrcode-generator-name": "QR-code-generator",
 	"changelanguage": "Taal wijzigen",
 	"my-language": "Mijn taal",
 	"button-save": "Opslaan",
 	"button-cancel": "Annuleren",
 	"login": "Aanmelden",
 	"logout": "Afmelden",
-	"pleaselogin": "naar de app met jouw MediaWiki account om de gegenereerde QR-code naar Wikimedia Commons te uploaden!",
+	"pleaselogin": "bij de app met jouw MediaWiki-account om de aangemaakte QR-code naar Wikimedia Commons te uploaden!",
 	"login-as": "Je bent aangemeld als",
-	"enter-url": "Geef een URL of een artikelpagina van een Wikimedia site in.",
-	"submit": "Opslaan",
-	"pagename": "QR-code voor Wiki arikel:",
+	"enter-url": "Voer de URL in van een artikelpagina van een willekeurige Wikimedia-site.",
+	"submit": "Verzenden",
+	"pagename": "QR-code voor Wiki-artikel:",
 	"download": "Downloaden",
 	"start-upload": "Beginnen met uploaden",
-	"modify-details": "Pas de titel aan en voeg een beschrijving toe voor het QR-code bestand:",
+	"modify-details": "Pas de titel aan en voeg een beschrijving toe voor het QR-codebestand:",
 	"filename": "Bestandsnaam:",
 	"description": "Beschrijving:",
 	"upload": "Uploaden afronden",
 	"error": "Er ging iets fout tijdens het uploaden van jouw QR-code :-/",
-	"view-on-site": "Klik hier om te bekijken",
-	"success": "Je QR-code werd met succes geüpload naar Wikimedia Commons!",
-	"goto-home": "Ga terug naar de homepage"
+	"view-on-site": "Klik hier om het te bekijken.",
+	"success": "Je QR-code is met succes geüpload naar Wikimedia Commons!",
+	"goto-home": "Terug naar de thuispagina"
 }

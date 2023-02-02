@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"qrcode-generator-title": "Initio – QRCode",
+	"qrcode-generator-desc": "Le Generator de Codices QR es un application web pro generar le codice QR. Illo etiam permitte incargar lo a Wikimedia Commons.",
+	"qrcode-generator-name": "Generator de codices QR",
+	"changelanguage": "Cambiar de lingua",
+	"my-language": "Mi lingua",
+	"button-save": "Salveguardar",
+	"button-cancel": "Cancellar",
+	"login": "Aperir session",
+	"logout": "Clauder session",
+	"pleaselogin": "al application con tu conto MediaWiki pro incargar le codice QR generate a Wikimedia Commons!",
+	"login-as": "Tu es in session como",
+	"enter-url": "Insere un URL de un pagina de articulo de qualcunque sito de Wikimedia.",
+	"submit": "Submitter",
+	"pagename": "Codice QR del articulo Wiki:",
+	"download": "Discargar",
+	"start-upload": "Comenciar le incargamento",
+	"modify-details": "Modificar le titulo e adder un description pro le file de codice QR:",
+	"filename": "Nomine del file:",
+	"description": "Description:",
+	"upload": "Terminar incargamento",
+	"error": "Un error ha occurrite durante le incargamento de tu codice QR :-/",
+	"view-on-site": "Clicca hic pro vider lo.",
+	"success": "Tu codice QR ha essite correctemente incargate a Wikimedia Commons!",
+	"goto-home": "Retornar al pagina de initio"
+}
