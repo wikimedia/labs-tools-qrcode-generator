@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"qrcode-generator-title": "Haaptsäit - QRCode",
+	"qrcode-generator-desc": "QRCode Generator ass eng Webapplikatoun fir QR-Coden ze generéieren. Ausserdeem gëtt een direkt Eroplueden op Wikimedia Commons ënnerstëtzt.",
 	"qrcode-generator-name": "QRCode Generateur",
 	"changelanguage": "Sprooch wiesselen",
 	"my-language": "Meng Sprooch",
@@ -12,11 +14,14 @@
 	"button-cancel": "Ofbriechen",
 	"login": "Aloggen",
 	"logout": "Ausloggen",
+	"pleaselogin": "an d'App mat Ärem MediaWiki-Benotzerkont fir de generéierte QR-Code direkt op Wikimedia Commons eropzelueden!",
 	"login-as": "Dir sidd ageloggt als",
+	"enter-url": "Gitt d'URL vun engem Artikel vun enger belibeger Wikimedia-Säit an.",
 	"submit": "Schécken",
 	"pagename": "QRCode fir de Wiki-Artikel:",
 	"download": "Eroflueden",
 	"start-upload": "Mam eroplueden ufänken",
+	"modify-details": "Ännert den Titel a setzt eng Beschreiwung fir de QR-Code-Fichier derbäi:",
 	"filename": "Numm vum Fichier:",
 	"description": "Beschreiwung:",
 	"upload": "Eroplueden ofschléissen",
