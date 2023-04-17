@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"qrcode-generator-title": "Pagrindinis puslapis – QRCode",
+	"qrcode-generator-desc": "QRCode Generator yra žiniatinklio programa, skirta QR kodams generuoti. Taip pat teikia palaikymą norint jį įkelti į Vikiteką.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Keisti kalbą",
+	"my-language": "Mano kalba",
+	"button-save": "Išsaugoti",
+	"button-cancel": "Atšaukti",
+	"login": "Prisijungti",
+	"logout": "Atsijungti",
+	"pleaselogin": "į programėlę su savo Vikimedijos paskyra, kad įkeltumėte sugeneruotą QR kodą į Vikiteką!",
+	"login-as": "Esate prisijungę kaip",
+	"enter-url": "Įveskite straipsnio puslapio URL iš bet kurios Vikimedijos svetainės.",
+	"submit": "Siųsti",
+	"pagename": "Viki straipsnio QR kodas:",
+	"download": "Atsisiųsti",
+	"start-upload": "Pradėti įkėlimą",
+	"modify-details": "Pakeiskite QR kodo pavadinimą ir pridėkite aprašymą:",
+	"filename": "Failo pavadinimas:",
+	"description": "Aprašymas:",
+	"upload": "Baigti įkėlimą",
+	"error": "Kažkas nepavyko įkeliant jūsų QR kodą :-/",
+	"view-on-site": "Spustelėkite čia, kad jį peržiūrėtumėte.",
+	"success": "Jūsų QR kodas sėkmingai įkeltas į Vikiteką!",
+	"goto-home": "Grįžti į pagrindinį puslapį"
+}

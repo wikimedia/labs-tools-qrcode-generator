@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kly"
+			"Kly",
+			"Winston Sung"
 		]
 	},
 	"qrcode-generator-title": "首頁 - QR 碼",
 	"qrcode-generator-desc": "QR 碼產生器是個能產生 QR 碼的網路應用程式，支援將其上傳到維基共享資源。",
 	"qrcode-generator-name": "QR 碼產生器",
-	"changelanguage": "更改語言",
+	"changelanguage": "變更語言",
 	"my-language": "我的語言",
 	"button-save": "儲存",
 	"button-cancel": "取消",

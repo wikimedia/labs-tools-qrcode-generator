@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"MRidhaAJ"
+		]
+	},
+	"qrcode-generator-title": "الرئيسية - QRCode",
+	"qrcode-generator-desc": "QRCode Generator هو تطبيق ويب لتوليد QR رمز الاستجابه السريعه. كما يوفر الدعم لتحميله على ويكيميديا كومنز.",
+	"qrcode-generator-name": "مولد كود QRCode",
+	"changelanguage": "غير اللغة",
+	"my-language": "لغتي",
+	"button-save": "إحفظ",
+	"button-cancel": "ألغي",
+	"login": "إفتح حساب",
+	"logout": "سد الحساب",
+	"pleaselogin": "إلى التطبيق باستخدام حساب ميدياويكي مالك لتحميل رمز الاستجابه السريعه QR الذي جرى إنشاؤه إلى ويكيميديا كومنز!",
+	"login-as": "انته مسجل الدخول باسم",
+	"enter-url": "اكتب عنوان URL لصفحة مقاله من أي موقع ويكيميديا.",
+	"submit": "دز",
+	"pagename": "QRCode لمقال الويكي:",
+	"download": "تنزيل",
+	"start-upload": "ابدي الرفع",
+	"modify-details": "عدل العنوان وحط وصف لملف رمز الاستجابه السريعه QR:",
+	"filename": "اسم الملف:",
+	"description": "الوصف:",
+	"upload": "خلص رفع",
+	"error": "صار خطأ أثناء تحميل رمز الاستجابه السريعه QR مالك: -/",
+	"view-on-site": "دوس هنا لمشاهدته.",
+	"success": "جرى تحميل رمز الاستجابه السريعه QR مالك بنجاح إلى ويكيميديا كومنز!",
+	"goto-home": "ارجع للصفحه الرئيسيه"
+}
