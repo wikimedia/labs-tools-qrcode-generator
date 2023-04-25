@@ -5,7 +5,8 @@ Install
 -------
 
 ```
-$ git clone https://github.com/Jayprakash-SE/qrcode-generator.git
+$ git clone https://gerrit.wikimedia.org/r/labs/tools/qrcode-generator
+$ cd qrcode-generator
 $ pip3 install -r requirements.txt
 $ python3 app.py
 ```
