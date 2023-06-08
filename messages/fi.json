@@ -16,10 +16,13 @@
 	"login-as": "Olet kirjautunut sisään nimellä",
 	"enter-url": "Kirjoita artikkelin URL-osoite miltä tahansa Wikimedia-sivustolta",
 	"submit": "Lähetä",
+	"pagename": "QRCode wikiartikkelille:",
 	"download": "Lataa",
 	"start-upload": "Aloita tallennus",
 	"filename": "Tiedostonimi:",
 	"description": "Kuvaus:",
 	"upload": "Viimeistele tallennus",
+	"view-on-site": "Napsauta tätä nähdäksesi sen.",
+	"success": "QR-koodisi on ladattu onnistuneesti Wikimedia Commonsiin!",
 	"goto-home": "Takaisin kotisivulle"
 }
