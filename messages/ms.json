@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tofeiku"
+		]
+	},
+	"changelanguage": "Tukar Bahasa",
+	"my-language": "Bahasa Saya",
+	"button-save": "Simpan",
+	"button-cancel": "Batalkan",
+	"login": "Log masuk",
+	"logout": "Log keluar",
+	"filename": "Nama fail:",
+	"description": "Keterangan:"
+}
