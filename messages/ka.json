@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Caden99"
+		]
+	},
+	"qrcode-generator-title": "მთავარი - QRCode",
+	"qrcode-generator-desc": "QRCode Generator არის ვებ აპლიკაცია QR კოდის გენერატორისთვის. ასევე, უზრუნველყოფს მის ატვირთვას Wikimedia Commons-ში.",
+	"qrcode-generator-name": "QRCode გენერატორი",
+	"changelanguage": "ენის შეცვლა",
+	"my-language": "ჩემი ენები",
+	"button-save": "შენახვა",
+	"button-cancel": "გაუქმება",
+	"login": "შესვლა",
+	"logout": "გასვლა",
+	"pleaselogin": "აპში თქვენი MediaWiki ანგარიშით, რათა ატვირთოთ გენერირებული QR კოდი Wikimedia Commons-ში!",
+	"login-as": "თქვენ შემოსული ხართ როგორც: $1",
+	"enter-url": "შეიყვანეთ სტატიის გვერდის URL ნებისმიერი ვიკიმედიის საიტიდან.",
+	"submit": "მიღება",
+	"pagename": "QRCode ვიკი სტატიისთვის:",
+	"download": "ჩამოტვირთვა",
+	"start-upload": "დაიწყეთ ატვირთვა",
+	"modify-details": "შეცვალეთ სათაური და დაამატეთ აღწერა QR კოდის ფაილისთვის:",
+	"filename": "ფაილის სახელი:",
+	"description": "აღწერა:",
+	"upload": "დაასრულეთ ატვირთვა",
+	"error": "თქვენი QR კოდის ატვირთვისას მოხდა რაღაც შეცდომა :-/",
+	"view-on-site": "დააწკაპუნეთ აქ მის სანახავად.",
+	"success": "თქვენი QR კოდი წარმატებით აიტვირთა Wikimedia Commons-ში!",
+	"goto-home": "დაუბრუნდით მთავარ გვერდზე"
+}

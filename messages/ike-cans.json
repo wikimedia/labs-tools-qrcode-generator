@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Caden99"
+		]
+	},
+	"qrcode-generator-title": "ᐊᖏᕐᕋᖅ - QRCode",
+	"qrcode-generator-desc": "QRCode Generator ᐃᑭᐊᖅᑭᕕᐅᕗᖅ ᐊᐅᓚᐅᑎᐅᓪᓗᓂ QR ᓇᓗᓇᐃᒃᑯᑕᕐᒧᑦ. ᐊᒻᒪᓗᑦᑕᐅᖅ, ᐃᑲᔪᖅᑐᐃᕙᒃᑭᕗᖅ ᖃᕆᑕᐅᔭᕐᒧᐊᖅᑎᕆᓂᕐᒥᒃ Wikimedia Commons−ᑯᓐᓄᑦ.",
+	"qrcode-generator-name": "QRᑯᐃᑦ ᐊᐅᓚᐅᑎᕋᓛᖓ",
+	"changelanguage": "ᐅᖃᐅᓯᖅ ᐊᓯᔾᔨᕐᓗᒍ",
+	"my-language": "ᐅᖃᐅᓯᕋ",
+	"button-save": "ᑐᖅᑯᕐᓗᒍ",
+	"button-cancel": "ᐃᓂᖅᑎᐹ",
+	"login": "ᐃᓯᕈᑎ",
+	"logout": "ᐃᓯᕐᓂᖅ",
+	"pleaselogin": "app−ᒧᑦ ᑐᓴᒐᒃᓴᓕᐅᖅᑎᓄᑦWiki account−ᒧᑦ ᖃᕆᑕᐅᔭᕐᒧᐊᖅᑎᕆᓂᕐᒧᑦ ᐊᐅᓚᑎᑕᐅᔪᒥᒃ QR−ᒧᑦ ᓇᓗᓇᐃᒃᑯᑕᕐᒥᒃ Wikimedia Commons−ᒧᑦ!",
+	"login-as": "ᐃᓯᖅᓯᒪᔪᑎᑦ",
+	"enter-url": "URL−ᒧᑦ ᐃᓕᓗᒍ ᑎᑎᕋᖅᓯᒪᔫᑉ ᒪᒃᐱᖅᑐᒐᖓᓂ ᓇᓕᐊᖕᓂᑐᐃᓐᓇᖅ Wikimedia−ᒥᑦ.",
+	"submit": "ᑐᓂᓯᓂᖅ",
+	"pagename": "QRCode Wiki−ᒧᑦ ᑎᑎᕋᖅᑕᐅᓯᒪᔪᒧᑦ:",
+	"download": "ᒥᓇᕆᓗᒍ",
+	"start-upload": "ᐱᒋᐊᕈᑎ",
+	"modify-details": "ᐋᖅᑭᒋᐊᕐᓗᒍ ᑕᐃᔭᐅᓂᖓ ᐃᓚᓯᓗᓂᓗ ᐅᓂᒃᑳᖅᓯᒪᔪᒥᒃ QR ᓇᓗᓇᐃᒃᑯᑕᕐᒧᑦ ᑐᖅᑯᖅᓯᒪᔪᒧᑦ:",
+	"filename": "ᑐᖅᑯᖅᑕᐅᓯᒪᔪᖅ ᐊᑎᖓ:",
+	"description": "ᖃᓄᐃᑦᑑᓂᖓ:",
+	"upload": "ᐱᐊᓂᒡᕕᖓ",
+	"error": "ᑭᓱᑭᐊᖅ ᑕᒻᒪᓚᐅᖅᑐᖅ ᖃᕆᑕᐅᔭᕐᒧᐊᖅᑎᖦᖢᒍ QR ᓇᓗᓇᐃᒃᑯᑕᖓ :-/",
+	"view-on-site": "ᐅᕘᓇ ᓇᕿᓪᓗᒍ ᑕᑯᔪᒪᒍᕕᐅᒃ.",
+	"success": "QR−ᒧᑦ ᓇᓗᓇᐃᒃᑯᑕᐃᑦ ᑲᔪᓯᓂᖃᑦᑎᐊᖅᖢᓂ ᐃᓕᔭᐅᕙᒃᐳᖅ Wikimedia Commons−ᑯᓐᓄᑦ!",
+	"goto-home": "ᒪᒃᐱᖅᑐᒐᕐᒧᑦ ᐅᑎᕐᓗᑎᑦ"
+}
