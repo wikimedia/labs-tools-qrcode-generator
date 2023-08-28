@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"qrcode-generator-title": "Inicio - Código QR",
+	"qrcode-generator-desc": "QRCode Generator é unha aplicación web para xerar o código QR. Ademais, ofrece soporte para subilo á Wikimedia Commons.",
+	"qrcode-generator-name": "Xerador de códigos QR",
+	"changelanguage": "Cambiar a lingua",
+	"my-language": "A miña lingua",
+	"button-save": "Gardar",
+	"button-cancel": "Cancelar",
+	"login": "Inicia sesión",
+	"logout": "Pechar a sesión",
+	"pleaselogin": "na aplicación coa túa conta de MediaWiki para subir o código QR xerado á Wikimedia Commons!",
+	"login-as": "Iniciaches sesión como",
+	"enter-url": "Introduce o enderezo URL dun artigo de calquera sitio da Wikimedia.",
+	"submit": "Enviar",
+	"pagename": "Código QR para o artigo do wiki:",
+	"download": "Descargar",
+	"start-upload": "Iniciar a subida",
+	"modify-details": "Modifica o título e engade unha descrición ao ficheiro do código QR:",
+	"filename": "Nome do ficheiro:",
+	"description": "Descrición:",
+	"upload": "Finalizar a subida",
+	"error": "Produciuse un erro ao subir o teu código QR :-/",
+	"view-on-site": "Fai clic aquí para velo.",
+	"success": "O teu código QR subiuse correctamente á Wikimedia Commons!",
+	"goto-home": "Volver á páxina de inicio"
+}
