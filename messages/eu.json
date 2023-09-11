@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Atzerritik",
+			"Joseba"
+		]
+	},
+	"qrcode-generator-title": "Hasiera-QRCode",
+	"qrcode-generator-desc": "QRCode Generator QR kodea sortzeko web aplikazioa da. Gainera, Wikimedia Commonsera igotzeko laguntza eskaintzen du.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Hizkuntza aldatu",
+	"my-language": "Nire hizkuntza",
+	"button-save": "Gorde",
+	"button-cancel": "Utzi",
+	"login": "Saioa hasi",
+	"logout": "Saioa itxi",
+	"pleaselogin": "zure MediaWiki aplikazioan duzun kontuan , sortutako QR Kodea Wikimedia Commonsen igo ahal izateko!",
+	"login-as": "Saioa hasita duzu, $1 erabiltzaile izenarekin.",
+	"enter-url": "Idatzi edozein Wikimedia gunetako artikulu orri baten URL a.",
+	"submit": "Bidali",
+	"pagename": "Wiki artikuluarentzako QRCode-a:",
+	"download": "Deskargatu",
+	"start-upload": "Igoera hasi",
+	"modify-details": "Aldatu izenburua eta gehitu QR kodearen fitxategiaren deskribapena:",
+	"filename": "Fitxategi-izena:",
+	"description": "Deskribapena:",
+	"upload": "Igoera amaitua",
+	"error": "Zerbait gaizki joan da zure QR kodea :-/ igotzean",
+	"view-on-site": "Klikatu hemen ikusteko",
+	"success": "Zure QR kodea arrakastaz igo da Wikimedia Commonsera!",
+	"goto-home": "Itzuli hasierako orrira"
+}
