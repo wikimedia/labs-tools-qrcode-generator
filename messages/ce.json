@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"qrcode-generator-title": "Коьрта - QRCode",
+	"changelanguage": "Хийца мотт",
+	"my-language": "Сан мотт",
+	"button-save": "Ӏалашйе",
+	"button-cancel": "Йухайаккха",
+	"login": "ЧугӀо",
+	"logout": "Аравала(йала)",
+	"login-as": "Хьо чуваьлла(йаьлла) санна",
+	"submit": "ДӀадахьийта",
+	"download": "Схьаэца",
+	"start-upload": "Доладе чуйаккхар",
+	"filename": "Файлан цӀе:",
+	"description": "Цуьнах лаьцна:",
+	"upload": "Чекхдаккха чуйаккхар",
+	"view-on-site": "Цуьнга хьажа кхуза тӀетаӀайе.",
+	"goto-home": "Коьрта агӀонга йухагӀо"
+}
