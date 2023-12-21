@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Thakurji"
+		]
+	},
+	"qrcode-generator-title": "Home - QRCode",
+	"changelanguage": "Bhasa ke badlo",
+	"my-language": "Hamaar bhasa",
+	"button-save": "Save karo",
+	"button-cancel": "Cancel karo",
+	"login": "Login karo",
+	"logout": "Logout karo",
+	"submit": "Submit karo",
+	"download": "Download karo",
+	"start-upload": "Upload suruu karo",
+	"filename": "File ke naam:",
+	"upload": "Upload khalaas karo",
+	"view-on-site": "Iske dekhe ke khatir hian pe click karo.",
+	"goto-home": "Home page pe laut jao"
+}
