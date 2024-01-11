@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Beta16",
 			"Yacine Boussoufa"
 		]
 	},
 	"qrcode-generator-title": "Home - QRCode",
-	"qrcode-generator-desc": "QRCode Generator è una web app per la generazione di QR code. Fornisce, anche, supporto per il caricamento si questi su Wikimedia Commons.",
+	"qrcode-generator-desc": "QRCode Generator è una web app per la generazione di QR code. Fornisce, anche, supporto per il caricamento di questi su Wikimedia Commons.",
 	"qrcode-generator-name": "Generatore QRCode",
 	"changelanguage": "Cambia lingua",
 	"my-language": "La mia lingua",

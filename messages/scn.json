@@ -5,6 +5,7 @@
 		]
 	},
 	"qrcode-generator-title": "Pàggina prinicipali - QRCode",
+	"qrcode-generator-desc": "QRCode Generator è n'applicazioni web pâ ginirazzioni di còdici QR. Furnisci macari lu supportu pû carricamentu di chisti supra Wikimedia Commons.",
 	"qrcode-generator-name": "Giniraturi di còdici QR",
 	"changelanguage": "Cancia lingua",
 	"my-language": "La mè lingua",
@@ -12,6 +13,7 @@
 	"button-cancel": "Annulla",
 	"login": "Trasi",
 	"logout": "Nesci",
+	"pleaselogin": "a l'applicazzioni cû tò cuntu MediaWiki pi carricari li còdici QR ginirati supra Wikimedia Commons!",
 	"login-as": "Trasisti comu",
 	"enter-url": "Nzirisci n'URL d'una pàggina di qualunqui situ Wikimedia.",
 	"submit": "Mànna",
@@ -21,5 +23,6 @@
 	"modify-details": "Cancia lu tìtulu e agghiunci na discrizzioni ô file dû còdici QR:",
 	"filename": "Nomu dû file:",
 	"description": "Discrizzioni:",
+	"success": "Lu tò còdici havi statu carricatu cu successu supra Wikimedia Commons!",
 	"goto-home": "Riturna â pàggina principali"
 }
