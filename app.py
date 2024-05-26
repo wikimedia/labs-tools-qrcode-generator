@@ -5,8 +5,7 @@ import datetime
 import urllib
 import os
 
-from flask import Flask, render_template, request, Markup, \
-    send_from_directory, session, url_for, redirect
+from flask import Flask, render_template, request, send_from_directory, session, url_for, redirect
 from flask_mwoauth import MWOAuth
 from flask_jsonlocale import Locales
 import requests_oauthlib
@@ -63,22 +62,19 @@ def index():
     img = qrcode.make(url, image_factory=qrcode.image.svg.SvgImage, version=8)
     img.save(file_withpath)
 
-    # Read the QR Code File
-    svg = open(file_withpath).read()
-
     return render_template('index.html', url=url, fileName=get_filename,
-                           username=username, src=Markup(svg))
+                           username=username, src=file_withpath)
 
 
 @app.route('/download/<string:filename>', methods=['GET'])
 def download(filename):
-    return send_from_directory(directory='static/qrcodes', filename=filename, as_attachment=True)
+    directory = 'static/qrcodes'
+    return send_from_directory(directory, filename, as_attachment=True)
 
 
 @app.route('/changelang', methods=['GET', 'POST'])
 def changelang():
     username = MWOAUTH.get_current_user(True)
-
     if request.method == "POST":
         locales.set_locale(request.form['locale'])
         return redirect(url_for('index'))
