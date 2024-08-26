@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Peterleth",
+			"Saederup92"
+		]
+	},
+	"qrcode-generator-title": "Hjem - QRKode",
+	"qrcode-generator-desc": "QRKode Generator er en webapp til at generere QR-koder. Giver også mulighed for at uploade det til Wikimedia Commons.",
+	"qrcode-generator-name": "QRKode Generator",
+	"changelanguage": "Skift sprog",
+	"my-language": "Mit sprog",
+	"button-save": "Gem",
+	"button-cancel": "Annullér",
+	"login": "Log ind",
+	"logout": "Log af",
+	"pleaselogin": "til appen med din MediaWiki-konto for at uploade den genererede QR-kode til Wikimedia Commons!",
+	"login-as": "Du er logget ind som",
+	"enter-url": "Indtast en URL til en artikelside fra et hvilket som helst Wikimedia-websted.",
+	"submit": "Indsend",
+	"pagename": "QRCode for Wiki-artikel:",
+	"download": "Download",
+	"start-upload": "Start overførsel",
+	"modify-details": "Rediger titlen og tilføj en beskrivelse til QR-kodefilen:",
+	"filename": "Filnavn:",
+	"description": "Beskrivelse:",
+	"upload": "Afslut upload",
+	"error": "Noget gik galt under upload af din QR-kode :-/",
+	"view-on-site": "Klik her for at se den.",
+	"success": "Din QR-kode er uploadet til Wikimedia Commons!",
+	"goto-home": "Gå tilbage til startsiden"
+}
