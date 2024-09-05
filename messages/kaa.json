@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajiniyaz Nurniyazov",
+			"Inabat Allanova"
+		]
+	},
+	"qrcode-generator-title": "Bas bet - QRKod",
+	"qrcode-generator-desc": "QRKod Generatorı - bul QR kodtı payda etiwshi web qosımsha. Sonday-aq, onı Wikimedia Commonsqa júklewge járdem beredi.",
+	"qrcode-generator-name": "QRKod Generatorı",
+	"changelanguage": "Tildi ózgertiw",
+	"my-language": "Ana tilim",
+	"button-save": "Saqlaw",
+	"button-cancel": "Biykar etiw",
+	"login": "Kiriw",
+	"logout": "Shıǵıw",
+	"pleaselogin": "Bul - jaratılǵan QR kodtı Wikimedia Commonsqa júklew ushın MediaWiki esap betińiz bar qosımsha!",
+	"login-as": "Siz dizimge mına at penen kirdińiz:",
+	"enter-url": "Qálegen Wikimedia saytınan maqala betiniń URL mánzilin kirgiziń.",
+	"submit": "Jiberiw",
+	"pagename": "Wiki maqala ushın QRKod:",
+	"download": "Júklep alıw",
+	"start-upload": "Júklewdi baslaw",
+	"modify-details": "QR kod faylı atamasın ózgertiń hám sıpatlamasın qosıń:",
+	"filename": "Fayl atı:",
+	"description": "Sıpatlama:",
+	"upload": "Júklewdi juwmaqlaw",
+	"error": "QR kodıńızdı júklewde qátelik júz berdi :-/",
+	"view-on-site": "Kóriw ushın usı jerge basıń.",
+	"success": "Siziń QR kodıńız Wikimedia Commonsqa áwmetli tárizde kiritildi!",
+	"goto-home": "Bas betke qaytıw"
+}
