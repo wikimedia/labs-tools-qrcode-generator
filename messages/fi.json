@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Muovipullo",
-			"Pyscowicz"
+			"Pyscowicz",
+			"Samoasambia"
 		]
 	},
 	"qrcode-generator-title": "Koti - QRCode",
+	"qrcode-generator-desc": "QRCode Generator on verkkosovellus QR-koodin luomiseen. Tarjoaa myös tukea sen lataamiseen Wikimedia Commonsiin.",
 	"qrcode-generator-name": "QRCode Generator",
 	"changelanguage": "Vaihda kieli",
 	"my-language": "Oma kieli",
@@ -13,15 +15,18 @@
 	"button-cancel": "Peruuta",
 	"login": "Kirjaudu sisään",
 	"logout": "Kirjaudu ulos",
+	"pleaselogin": "sovellukseen MediaWiki-tunnuksellasi ladataksesi luodun QR-koodin Wikimedia Commonsiin!",
 	"login-as": "Olet kirjautunut sisään nimellä",
 	"enter-url": "Kirjoita artikkelin URL-osoite miltä tahansa Wikimedia-sivustolta",
 	"submit": "Lähetä",
 	"pagename": "QRCode wikiartikkelille:",
 	"download": "Lataa",
 	"start-upload": "Aloita tallennus",
+	"modify-details": "Muuta QR-kooditiedoston otsikkoa ja lisää sille kuvaus:",
 	"filename": "Tiedostonimi:",
 	"description": "Kuvaus:",
 	"upload": "Viimeistele tallennus",
+	"error": "Jotain meni pieleen tallennettaessa QR-koodiasi :-/",
 	"view-on-site": "Napsauta tätä nähdäksesi sen.",
 	"success": "QR-koodisi on ladattu onnistuneesti Wikimedia Commonsiin!",
 	"goto-home": "Takaisin kotisivulle"
