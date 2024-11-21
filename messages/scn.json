@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Ajeje Brazorf",
-			"Dapal"
+			"Dapal",
+			"GianAntonucci"
 		]
 	},
-	"qrcode-generator-title": "Pàggina principali - QRCode",
+	"qrcode-generator-title": "Pàggina mastra - Còdici QR",
 	"qrcode-generator-desc": "QRCode Generator è n'appricazzioni web pâ ginirazzioni di còdici QR, e supporta macari u carricamentu direttu supra a Wikimedia Commons.",
 	"qrcode-generator-name": "Giniraturi di còdici QR",
 	"changelanguage": "Cancia lingua",
@@ -28,5 +29,5 @@
 	"error": "Cci fu nu mpidugghiu amentri chi carricava u to còdici QR :-/",
 	"view-on-site": "Clicca cca pi vidìrillu.",
 	"success": "U to còdici fu carricatu bonu nne Wikimedia Commons!",
-	"goto-home": "Torna â pàggina principali"
+	"goto-home": "Ritorna â pàggina mastra"
 }
