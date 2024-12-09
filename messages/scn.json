@@ -3,7 +3,8 @@
 		"authors": [
 			"Ajeje Brazorf",
 			"Dapal",
-			"GianAntonucci"
+			"GianAntonucci",
+			"Gmelfi"
 		]
 	},
 	"qrcode-generator-title": "Pàggina mastra - Còdici QR",
@@ -22,12 +23,12 @@
 	"pagename": "QRCode pi l'artìculu wiki:",
 	"download": "Scàrrica",
 	"start-upload": "Abbìa u carricamentu",
-	"modify-details": "Cancia u tìtulu e agghiunci na discrizzioni pû pricu dû còdici QR:",
-	"filename": "Nomu dû pricu:",
+	"modify-details": "Cancia lu tìtulu e agghiunci na discrizzioni pû file dû còdici QR:",
+	"filename": "Nomu dû file:",
 	"description": "Discrizzioni:",
 	"upload": "Finisci u carricamentu",
 	"error": "Cci fu nu mpidugghiu amentri chi carricava u to còdici QR :-/",
 	"view-on-site": "Clicca cca pi vidìrillu.",
 	"success": "U to còdici fu carricatu bonu nne Wikimedia Commons!",
-	"goto-home": "Ritorna â pàggina mastra"
+	"goto-home": "Ritorna â pàggina principali"
 }
