@@ -5,20 +5,27 @@
 		]
 	},
 	"qrcode-generator-title": "Komenco - QRCode",
+	"qrcode-generator-desc": "''QRCode Generator'' esas utensilo interretala por krear QR-kodexi. Ultre to, ol furnisas suporto por sendar ol a Wikimedia Commons.",
+	"qrcode-generator-name": "Kreanto di QR-kodexo (''QRCode Generator'')",
 	"changelanguage": "Chanjez idiomo",
 	"my-language": "Mea idiomo",
 	"button-save": "Konservez",
 	"button-cancel": "Anular",
 	"login": "Enirar",
+	"logout": "Ekirar",
+	"pleaselogin": "videz l'utensilo kun tua konto che MediaWiki, por sendar la QR-kodexo kreita a Wikimedia Commons!",
 	"login-as": "Vu enrejistresis kom",
 	"enter-url": "Informez la URL pri pagino de ula retsituo Wikimedia.",
 	"submit": "Sendez",
+	"pagename": "QR-kodexo por artiklo che Wiki:",
 	"download": "Deskargar",
 	"start-upload": "Adkargar arkivo",
 	"modify-details": "Modifikez la titulo, ed adjuntez deskripto pri l'arkivo QRcode:",
 	"filename": "Nomo dil arkivo:",
 	"description": "Deskripto:",
 	"upload": "Sendo di arkivo parfinata",
+	"error": "Ulo faliis, dum la sendo di vua QR-kodexo :-/",
 	"view-on-site": "Kliktez hike por vidar ol.",
-	"success": "Vua QR-kodexo sucese sendesis a Wikimedia Commons!"
+	"success": "Vua QR-kodexo sucese sendesis a Wikimedia Commons!",
+	"goto-home": "Retroirar a frontispico"
 }
