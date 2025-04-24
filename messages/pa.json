@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cabal"
+		]
+	},
+	"qrcode-generator-title": "ਮੁਢਲਾ ਵਰਕਾ - QRCode",
+	"changelanguage": "ਭਾਸ਼ਾ ਬਦਲੋ",
+	"my-language": "ਮੇਰੀ ਭਾਸ਼ਾ",
+	"button-save": "ਸਾਂਭੋ",
+	"button-cancel": "ਰੱਦ ਕਰੋ",
+	"login": "ਦਾਖ਼ਲ ਹੋਵੋ",
+	"logout": "ਬਾਹਰ ਆਉ",
+	"login-as": "ਤੁਸੀਂ ਇੰਜ਼ ਦਾਖ਼ਲ ਹੋਏ ਹੋ",
+	"enter-url": "ਕਿਸੇ ਵੀ ਵਿਕੀਮੀਡੀਆ ਸਾਈਟ ਤੋਂ ਕਿਸੇ ਲੇਖ ਵਰਕੇ ਦਾ URL ਦਾਖਲ ਕਰੋ।",
+	"submit": "ਹਵਾਲੇ ਕਰੋ",
+	"pagename": "ਵਿਕੀ ਲੇਖ ਲਈ QRCode:",
+	"download": "ਲਾਹੋ",
+	"start-upload": "ਚੜ੍ਹਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ",
+	"modify-details": "ਸਿਰਲੇਖ ਨੂੰ ਸੋਧੋ ਅਤੇ QR ਕੋਡ ਫਾਈਲ ਲਈ ਵੇਰਵਾ ਸ਼ਾਮਲ ਕਰੋ:",
+	"filename": "ਫ਼ਾਈਲ ਦਾ ਨਾਂ:",
+	"description": "ਵੇਰਵਾ:",
+	"error": "ਤੁਹਾਡਾ QR ਕੋਡ ਚੜ੍ਹਾਉਣ ਵੇਲੇ ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ :-/",
+	"view-on-site": "ਇਸ ਨੂੰ ਵੇਖਣ ਲਈ ਇੱਥੇ ਨੱਪੋ।",
+	"goto-home": "ਮੁਢਲੇ ਵਰਕੇ ਉੱਤੇ ਵਾਪਸ ਜਾਓ"
+}
