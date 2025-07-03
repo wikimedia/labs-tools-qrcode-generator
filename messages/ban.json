@@ -13,9 +13,19 @@
 	"button-cancel": "Wangdé",
 	"login": "Manjing log",
 	"logout": "Medal log",
+	"pleaselogin": "ka aplikasi antuk akun MédiaWiki sameton anggén ngunggahang Kode QR sané sampun kapolihang ka Wikimédia Commons!",
 	"login-as": "Ida sampun manjing log manados $1",
+	"enter-url": "Unggahang URL kaca suratan saking situs Wikimédia napi manten.",
 	"submit": "Kirim",
 	"pagename": "QRCode anggén suratan Wiki:",
 	"download": "Unduh",
-	"start-upload": "Ngawitin ngunggah"
+	"start-upload": "Ngawitin ngunggah",
+	"modify-details": "Uwah murda lan tambahin deskripsi anggén berkas kode QR:",
+	"filename": "Aran berkas:",
+	"description": "Déskripsi",
+	"upload": "Puputang unggah",
+	"error": "Ada sané iwang rikala ngunggah kode QR-né:-/",
+	"view-on-site": "Klik driki mangda nyingakin.",
+	"success": "Kode QR sameton sampun prasida kaunggahang ring Wikimédia Commons!",
+	"goto-home": "Mabalik ka kaca utama"
 }
