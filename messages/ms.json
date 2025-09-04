@@ -1,15 +1,32 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hakimi97",
 			"Tofeiku"
 		]
 	},
+	"qrcode-generator-title": "Laman Utama - QRCode",
+	"qrcode-generator-desc": "Penjana kod QR ialah aplikasi web untuk menjana kod QR, serta menyediakan sokongan untuk memuat naiknya ke Wikimedia Commons.",
+	"qrcode-generator-name": "Penjana Kod QR",
 	"changelanguage": "Tukar Bahasa",
 	"my-language": "Bahasa Saya",
 	"button-save": "Simpan",
 	"button-cancel": "Batalkan",
 	"login": "Log masuk",
 	"logout": "Log keluar",
+	"pleaselogin": "ke apl dengan akaun MediaWiki anda untuk memuat naik Kod QR yang dihasilkan ke Wikimedia Commons!",
+	"login-as": "Anda telah log masuk sebagai",
+	"enter-url": "Masukkan URL laman rencana dari mana-mana tapak Wikimedia.",
+	"submit": "Hantar",
+	"pagename": "Kod QR untuk rencana Wiki:",
+	"download": "Muat turun",
+	"start-upload": "Mula muat naik",
+	"modify-details": "Ubah suai tajuk dan tambahkan penerangan untuk fail kod QR:",
 	"filename": "Nama fail:",
-	"description": "Keterangan:"
+	"description": "Keterangan:",
+	"upload": "Selesai muat naik",
+	"error": "Kesilapan telah berlaku semasa memuat naik kod QR anda :-/",
+	"view-on-site": "Klik di sini untuk melihatnya.",
+	"success": "Kod QR anda berjaya dimuat naik ke Wikimedia Commons!",
+	"goto-home": "Kembali ke laman utama"
 }
