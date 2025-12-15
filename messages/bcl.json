@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jp2593"
+		]
+	},
+	"qrcode-generator-title": "Home - QRCode",
+	"qrcode-generator-desc": "An QRCode Generator sarong web app tanganing maggibo nin kodigong QR. Siring man, nagtatao nin suporta sa pagkarga kaini sa Wikimedia Commons.",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "Magbago nin Tataramon",
+	"my-language": "An Sakuyang Tataramon",
+	"button-save": "Itagama",
+	"button-cancel": "Kanselaron",
+	"login": "Maglaog",
+	"logout": "Magluwas",
+	"pleaselogin": "duman sa app na may MediaWiki akawnt tanganing i-karga an naginibong Kodigong QR sa Wikimedia Commons!",
+	"login-as": "Nakalaog ka bilang si",
+	"enter-url": "Maglaag nin URL kan sarong pahina nin artikulo hale sa arin man na site nin Wikimedia.",
+	"submit": "Isumitir",
+	"pagename": "QRCode para sa artikulo sa Wiki:",
+	"download": "I-download",
+	"start-upload": "Magpoon magkarga",
+	"modify-details": "Baguhon an titulo asin magdagdag nin deskripsyon para sa QR code file:",
+	"filename": "Ngaran nin sagunson:",
+	"description": "Deskripsyon",
+	"upload": "Tapuson an pagkarga",
+	"error": "May nangyaring sala mantang pigkakarga an saimong QR code :-/",
+	"view-on-site": "Pinduton digdi tanganing mahiling ini.",
+	"success": "An saimong kodigong QR matrayumpong naikarga sa Wikimedia Commons!",
+	"goto-home": "Magbalik sa home page"
+}
