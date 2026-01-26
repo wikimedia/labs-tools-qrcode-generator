@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"qrcode-generator-title": "Baile - Cód QRC",
+	"qrcode-generator-desc": "Is aip ghréasáin é Gineadóir Cód QR chun cód QR a ghiniúint. Chomh maith leis sin, cuireann sé tacaíocht ar fáil chun é a uaslódáil chuig Wikimedia Commons.",
+	"qrcode-generator-name": "Gineadóir Cód QRC",
+	"changelanguage": "Athraigh Teanga",
+	"my-language": "Mo Theanga",
+	"button-save": "Sábháil",
+	"button-cancel": "Cealaigh",
+	"login": "Logáil Isteach",
+	"logout": "Logáil Amach",
+	"pleaselogin": "chuig an aip le do chuntas MediaWiki chun an Cód QR ginte a uaslódáil chuig Wikimedia Commons!",
+	"login-as": "Tá tú logáilte isteach mar",
+	"enter-url": "Cuir isteach URL leathanaigh ailt ó aon suíomh Wikimedia.",
+	"submit": "Cuir isteach",
+	"pagename": "Cód QR don alt Vicí:",
+	"download": "Íoslódáil",
+	"start-upload": "Tosaigh ag uaslódáil",
+	"modify-details": "Athraigh an teideal agus cuir cur síos leis an gcomhad cód QR:",
+	"filename": "Ainm comhaid:",
+	"description": "Cur síos:",
+	"upload": "Críochnaigh an uaslódáil",
+	"error": "Tharla fadhb agus do chód QR á uaslódáil :-/",
+	"view-on-site": "Cliceáil anseo chun é a fheiceáil.",
+	"success": "Tá do chód QR uaslódáilte go rathúil chuig Wikimedia Commons!",
+	"goto-home": "Téigh ar ais go dtí an leathanach baile"
+}

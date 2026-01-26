@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Renessaince"
+			"Renessaince",
+			"Ucukor"
 		]
 	},
 	"qrcode-generator-title": "Галоўная — QRCode",
@@ -13,7 +14,7 @@
 	"button-cancel": "Скасаваць",
 	"login": "Увайсьці",
 	"logout": "Выйсьці",
-	"pleaselogin": "да праграмы з уліковым запісам MediaWiki, каб загрузіць згенэраваны QR-код у Вікісховішча!",
+	"pleaselogin": "да праґрамы з рахункам MediaWiki, каб загрузіць зґенэраваны QR-код у Вікісховішча!",
 	"login-as": "Вы ўвайшлі як",
 	"enter-url": "Увядзіце URL старонкі артыкулу зь якой-небудзь праекту Вікімэдыі.",
 	"submit": "Адаслаць",
