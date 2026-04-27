@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Alexandr Efremov",
-			"Helpau"
+			"Helpau",
+			"Shabe"
 		]
 	},
 	"qrcode-generator-title": "Главная - QRCode",
@@ -14,7 +15,7 @@
 	"button-cancel": "Отменить",
 	"login": "Войти",
 	"logout": "Выйти",
-	"pleaselogin": "в приложение с помощью вашей учетной записью MediaWiki, чтобы загрузить сгенерированный QR-код на Викисклад!",
+	"pleaselogin": "в приложение с помощью вашей учётной записью MediaWiki, чтобы загрузить сгенерированный QR-код на Викисклад!",
 	"login-as": "Вы вошли как",
 	"enter-url": "Введите URL-адрес страницы статьи с любого сайта Викимедиа.",
 	"submit": "Отправить",
