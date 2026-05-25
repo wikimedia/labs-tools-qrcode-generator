@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"McDutchie",
-			"PonkoSasuke"
+			"PonkoSasuke",
+			"Siebrand"
 		]
 	},
 	"qrcode-generator-title": "Thuis – QR-code",
@@ -14,7 +15,7 @@
 	"button-cancel": "Annuleren",
 	"login": "Aanmelden",
 	"logout": "Afmelden",
-	"pleaselogin": "bij de app met jouw MediaWiki-account om de aangemaakte QR-code naar Wikimedia Commons te uploaden!",
+	"pleaselogin": "bij de app met uw MediaWiki-account om de aangemaakte QR-code naar Wikimedia Commons te uploaden!",
 	"login-as": "U bent aangemeld als",
 	"enter-url": "Voer de URL in van een artikelpagina van een willekeurige Wikimedia-site.",
 	"submit": "Verzenden",
@@ -25,7 +26,7 @@
 	"filename": "Bestandsnaam:",
 	"description": "Beschrijving:",
 	"upload": "Uploaden afronden",
-	"error": "Er ging iets fout tijdens het uploaden van jouw QR-code :-/",
+	"error": "Er ging iets fout tijdens het uploaden van uw QR-code :-/",
 	"view-on-site": "Klik hier om het te bekijken.",
 	"success": "Je QR-code is met succes geüpload naar Wikimedia Commons!",
 	"goto-home": "Terug naar de thuispagina"
