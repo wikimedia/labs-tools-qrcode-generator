@@ -7,7 +7,7 @@
 		]
 	},
 	"qrcode-generator-title": "Thuis – QR-code",
-	"qrcode-generator-desc": "QRCode Generator is een web-app om QR-codes aan te maken. Ook kun je ze hiermee uploaden naar Wikimedia Commons.",
+	"qrcode-generator-desc": "QRCode Generator is een web-app om QR-codes aan te maken. Ook kunt u ze hiermee uploaden naar Wikimedia Commons.",
 	"qrcode-generator-name": "QR-code-generator",
 	"changelanguage": "Taal wijzigen",
 	"my-language": "Mijn taal",
@@ -28,6 +28,6 @@
 	"upload": "Uploaden afronden",
 	"error": "Er ging iets fout tijdens het uploaden van uw QR-code :-/",
 	"view-on-site": "Klik hier om het te bekijken.",
-	"success": "Je QR-code is met succes geüpload naar Wikimedia Commons!",
+	"success": "Uw QR-code is met succes geüpload naar Wikimedia Commons!",
 	"goto-home": "Terug naar de thuispagina"
 }
