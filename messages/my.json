@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kalixlouiis",
 			"Sithu015"
 		]
 	},
@@ -13,6 +14,7 @@
 	"button-cancel": "ပယ်ဖျက်",
 	"login": "ဝင်ရန်",
 	"logout": "ထွက်ရန်",
+	"pleaselogin": "ထုတ်ယူထားသော QR Code ကို Wikimedia Commons သို့ တင်ရန် သင့် MediaWiki အကောင့်ဖြင့် အက်ပ်သို့ ...",
 	"login-as": "သင် ဝင်ထားသော အကောင့် မှာ",
 	"enter-url": "မည်သည့် ဝီကီမီဒီယာ ဆိုက်မှ မဆို ဆောင်းပါး တစ်ခု  ၏ URL ထည့်ပါ။",
 	"submit": "ထည့်သွင်းရန်",
