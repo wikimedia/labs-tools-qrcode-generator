@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"PanWor",
 			"WaldiSt"
 		]
 	},
@@ -14,7 +15,7 @@
 	"login": "Zaloguj",
 	"logout": "Wyloguj",
 	"pleaselogin": "do aplikacji z kontem MediaWiki, aby przesłać wygenerowany kod QR do Wikimedia Commons!",
-	"login-as": "Jesteś zalogowany jako",
+	"login-as": "Zalogowano się jako",
 	"enter-url": "Wpisz adres URL strony artykułu z dowolnej witryny Wikimedia.",
 	"submit": "Prześlij",
 	"pagename": "Kod QR dla artykułu Wiki:",
