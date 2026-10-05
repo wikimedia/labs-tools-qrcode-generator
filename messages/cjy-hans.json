@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Villager-bloc-h"
+		]
+	},
+	"qrcode-generator-title": "封皮 - QRCode",
+	"qrcode-generator-desc": "QRCode Generator是个网页应用，能生成二维码。还支持把它传到Wikimedia Commons上。",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "改变语言",
+	"my-language": "我个语言",
+	"button-save": "保存",
+	"button-cancel": "不弄了",
+	"login": "登录",
+	"logout": "注销",
+	"pleaselogin": "用你个MediaWiki账号登到这个应用上，就能把生成好个二维码传到Wikimedia Commons上！",
+	"login-as": "您个登录身份是",
+	"enter-url": "把Wikimedia站点上个文章页面URL写进来。",
+	"submit": "提交",
+	"pagename": "维基条目个二维码：",
+	"download": "下载",
+	"start-upload": "开始上传",
+	"modify-details": "改改标题，再给二维码文件加个说明：",
+	"filename": "文件名：",
+	"description": "说明：",
+	"upload": "结束上传",
+	"error": "传二维码个时候出错了 :-/",
+	"view-on-site": "点这儿看。",
+	"success": "您个二维码已经成功传到Wikimedia Commons上啦！",
+	"goto-home": "回到封皮"
+}
