@@ -1,15 +1,32 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
+	"qrcode-generator-title": "مکھ صفحہ - QRCode",
+	"qrcode-generator-desc": "QRCode Generator ہک ویب ایپ ہے جیندی مدد نال QR کوڈ بݨایا ونج سڳدے۔ ایندے ذریعے اینکوں Wikimedia Commons تے اپلوڈ کرݨ دی سہولت وی ملدی ہے۔",
+	"qrcode-generator-name": "QRCode Generator",
+	"changelanguage": "زبان بدلو",
+	"my-language": "میݙی زبان",
 	"button-save": "بچاؤ",
 	"button-cancel": "منسوخ",
 	"login": "لاگ ان",
 	"logout": "لاگ آؤٹ",
+	"pleaselogin": "اپݨے MediaWiki کھاتے نال ایپ وچ لاگ اِن کرو تاں جو بݨایا ڳیا QR Code Wikimedia Commons تے اپلوڈ کر سڳو!",
+	"login-as": "تساں لاگ اِن تھی چکیو او",
+	"enter-url": "کہیں وی Wikimedia سائٹ دے مضمون صفحے دا URL لکھو۔",
 	"submit": "جمع کرواؤ",
+	"pagename": "وکی مضمون کیتے QRCode:",
 	"download": "ڈاؤن لوڈ",
+	"start-upload": "اپلوڈ شروع کرو",
+	"modify-details": "QR کوڈ فائل دا سرناواں بدلو تے تفصیل شامل کرو:",
 	"filename": "فائل دا ناں:",
-	"description": "تفصیل:"
+	"description": "تفصیل:",
+	"upload": "اپلوڈ پورا کرو",
+	"error": "تہاݙے QR کوڈ دے اپلوڈ دوران کجھ غلط تھی ڳیا :-/",
+	"view-on-site": "ایندوں ݙیکھݨ کیتے ایتھے کلک کرو۔",
+	"success": "تہاݙا QR کوڈ Wikimedia Commons تے کامیابی نال اپلوڈ تھی ڳیا!",
+	"goto-home": "مکھ صفحے تے واپس ونجو"
 }
